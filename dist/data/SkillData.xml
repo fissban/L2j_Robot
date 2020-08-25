@@ -1,0 +1,2654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<skill id="1" name="Triple Slash"/>
+	<skill id="2" name="Confusion"/>
+	<skill id="3" name="Power Strike"/>
+	<skill id="4" name="Dash"/>
+	<skill id="5" name="Double Sonic Slash"/>
+	<skill id="6" name="Sonic Blaster"/>
+	<skill id="7" name="Sonic Storm"/>
+	<skill id="8" name="Sonic Focus"/>
+	<skill id="9" name="Sonic Buster"/>
+	<skill id="10" name="Summon Storm Cubic"/>
+	<skill id="11" name="Trick"/>
+	<skill id="12" name="Switch"/>
+	<skill id="13" name="Summon Siege Golem"/>
+	<skill id="15" name="Charm"/>
+	<skill id="16" name="Mortal Blow"/>
+	<skill id="17" name="Force Burst"/>
+	<skill id="18" name="Aura of Hate"/>
+	<skill id="19" name="Double Shot"/>
+	<skill id="21" name="Poison Recovery"/>
+	<skill id="22" name="Summon Vampiric Cubic"/>
+	<skill id="24" name="Burst Shot"/>
+	<skill id="25" name="Summon Mechanic Golem"/>
+	<skill id="27" name="Unlock"/>
+	<skill id="28" name="Aggression"/>
+	<skill id="29" name="Iron Punch"/>
+	<skill id="30" name="Backstab"/>
+	<skill id="33" name="Summon Phantom Cubic"/>
+	<skill id="34" name="Bandage"/>
+	<skill id="35" name="Force Storm"/>
+	<skill id="36" name="Whirlwind"/>
+	<skill id="42" name="Sweeper"/>
+	<skill id="44" name="Remedy"/>
+	<skill id="45" name="Divine Heal"/>
+	<skill id="46" name="Life Scavenge"/>
+	<skill id="48" name="Thunder Storm"/>
+	<skill id="49" name="Holy Strike"/>
+	<skill id="50" name="Focused Force"/>
+	<skill id="51" name="Lure"/>
+	<skill id="54" name="Force Blaster"/>
+	<skill id="56" name="Power Shot"/>
+	<skill id="58" name="Elemental Heal"/>
+	<skill id="60" name="Fake Death"/>
+	<skill id="61" name="Cure Bleeding"/>
+	<skill id="65" name="Horror"/>
+	<skill id="67" name="Summon Life Cubic"/>
+	<skill id="69" name="Sacrifice"/>
+	<skill id="70" name="Drain Health"/>
+	<skill id="72" name="Iron Will"/>
+	<skill id="75" name="Detect Insect Weakness"/>
+	<skill id="76" name="Bear Spirit Totem"/>
+	<skill id="77" name="Attack Aura"/>
+	<skill id="78" name="War Cry"/>
+	<skill id="80" name="Detect Monster Weakness"/>
+	<skill id="81" name="Punch of Doom"/>
+	<skill id="82" name="Majesty"/>
+	<skill id="83" name="Wolf Spirit Totem"/>
+	<skill id="84" name="Poison Blade Dance"/>
+	<skill id="86" name="Reflect Damage"/>
+	<skill id="87" name="Detect Animal Weakness"/>
+	<skill id="88" name="Detect Dragon Weakness"/>
+	<skill id="91" name="Defense Aura"/>
+	<skill id="92" name="Shield Stun"/>
+	<skill id="94" name="Rage"/>
+	<skill id="95" name="Cripple"/>
+	<skill id="96" name="Bleed"/>
+	<skill id="97" name="Sanctuary"/>
+	<skill id="98" name="Sword Symphony"/>
+	<skill id="99" name="Rapid Shot"/>
+	<skill id="100" name="Stun Attack"/>
+	<skill id="101" name="Stunning Shot"/>
+	<skill id="102" name="Entangle"/>
+	<skill id="103" name="Corpse Plague"/>
+	<skill id="104" name="Detect Plant Weakness"/>
+	<skill id="105" name="Freezing Strike"/>
+	<skill id="106" name="Veil"/>
+	<skill id="107" name="Holy Aura"/>
+	<skill id="109" name="Ogre Spirit Totem"/>
+	<skill id="110" name="Ultimate Defense"/>
+	<skill id="111" name="Ultimate Evasion"/>
+	<skill id="112" name="Deflect Arrow"/>
+	<skill id="113" name="Long Shot"/>
+	<skill id="115" name="Power Break"/>
+	<skill id="116" name="Howl"/>
+	<skill id="118" name="Magician's Movement"/>
+	<skill id="120" name="Stunning Fist"/>
+	<skill id="121" name="Battle Roar"/>
+	<skill id="122" name="Hex"/>
+	<skill id="123" name="Spirit Barrier"/>
+	<skill id="127" name="Hamstring"/>
+	<skill id="129" name="Poison"/>
+	<skill id="130" name="Thrill Fight"/>
+	<skill id="131" name="Hawk Eye"/>
+	<skill id="134" name="Toughness"/>
+	<skill id="137" name="Critical Chance"/>
+	<skill id="139" name="Guts"/>
+	<skill id="141" name="Weapon Mastery"/>
+	<skill id="142" name="Armor Mastery"/>
+	<skill id="143" name="Cubic Mastery"/>
+	<skill id="144" name="Dual Weapon Mastery"/>
+	<skill id="146" name="Anti Magic"/>
+	<skill id="147" name="Magic Resistance"/>
+	<skill id="148" name="Vital Force"/>
+	<skill id="150" name="Weight Limit"/>
+	<skill id="153" name="Shield Mastery"/>
+	<skill id="163" name="Spellcraft"/>
+	<skill id="164" name="Quick Recovery"/>
+	<skill id="165" name="Trade"/>
+	<skill id="168" name="Boost Attack Speed"/>
+	<skill id="169" name="Quick Step"/>
+	<skill id="171" name="Esprit"/>
+	<skill id="172" name="Create Item"/>
+	<skill id="173" name="Acrobatics"/>
+	<skill id="176" name="Frenzy"/>
+	<skill id="181" name="Revival"/>
+	<skill id="190" name="Fatal Strike"/>
+	<skill id="191" name="Focus Mind"/>
+	<skill id="193" name="Critical Power"/>
+	<skill id="194" name="Lucky"/>
+	<skill id="195" name="Boost Breath"/>
+	<skill id="196" name="Holy Blade"/>
+	<skill id="197" name="Holy Armor"/>
+	<skill id="198" name="Boost Evasion"/>
+	<skill id="205" name="Blunt Mastery"/>
+	<skill id="208" name="Bow Mastery"/>
+	<skill id="209" name="Dagger Mastery"/>
+	<skill id="210" name="Fist Mastery"/>
+	<skill id="211" name="Boost HP"/>
+	<skill id="212" name="Fast HP Recovery"/>
+	<skill id="213" name="Boost Mana"/>
+	<skill id="214" name="Mana Recovery"/>
+	<skill id="216" name="Polearm Mastery"/>
+	<skill id="217" name="Sword Blunt Mastery"/>
+	<skill id="221" name="Silent Move"/>
+	<skill id="222" name="Fist Fury"/>
+	<skill id="223" name="Sting"/>
+	<skill id="225" name="Acrobatic Move"/>
+	<skill id="226" name="Relax"/>
+	<skill id="227" name="Light Armor Mastery"/>
+	<skill id="228" name="Fast Spell Casting"/>
+	<skill id="229" name="Fast Mana Recovery"/>
+	<skill id="230" name="Sprint"/>
+	<skill id="231" name="Heavy Armor Mastery"/>
+	<skill id="232" name="Heavy Armor Mastery"/>
+	<skill id="233" name="Light Armor Mastery"/>
+	<skill id="234" name="Robe Mastery"/>
+	<skill id="235" name="Robe Mastery"/>
+	<skill id="236" name="Light Armor Mastery"/>
+	<skill id="239" name="Expertise S"/>
+	<skill id="240" name="Expertise C Deleted"/>
+	<skill id="241" name="Expertise B Deleted"/>
+	<skill id="242" name="Expertise A Deleted"/>
+	<skill id="243" name="Expertise S Deleted"/>
+	<skill id="244" name="Armor Mastery"/>
+	<skill id="245" name="Wild Sweep"/>
+	<skill id="246" name="Seal of Ruler"/>
+	<skill id="247" name="Build Headquarters"/>
+	<skill id="248" name="Crystallize"/>
+	<skill id="249" name="Weapon Mastery"/>
+	<skill id="250" name="Weapon Mastery"/>
+	<skill id="251" name="Robe Mastery"/>
+	<skill id="252" name="Light Armor Mastery"/>
+	<skill id="253" name="Heavy Armor Mastery"/>
+	<skill id="254" name="Spoil"/>
+	<skill id="255" name="Power Smash"/>
+	<skill id="256" name="Accuracy"/>
+	<skill id="257" name="Sword Blunt Mastery"/>
+	<skill id="258" name="Light Armor Mastery"/>
+	<skill id="259" name="Heavy Armor Mastery"/>
+	<skill id="260" name="Hammer Crush"/>
+	<skill id="261" name="Triple Sonic Slash"/>
+	<skill id="262" name="Holy Blessing"/>
+	<skill id="263" name="Deadly Blow"/>
+	<skill id="264" name="Song of Earth"/>
+	<skill id="265" name="Song of Life"/>
+	<skill id="266" name="Song of Water"/>
+	<skill id="267" name="Song of Warding"/>
+	<skill id="268" name="Song of Wind"/>
+	<skill id="269" name="Song of Hunter"/>
+	<skill id="270" name="Song of Invocation"/>
+	<skill id="271" name="Dance of the Warrior"/>
+	<skill id="272" name="Dance of Inspiration"/>
+	<skill id="273" name="Dance of the Mystic"/>
+	<skill id="274" name="Dance of Fire"/>
+	<skill id="275" name="Dance of Fury"/>
+	<skill id="276" name="Dance of Concentration"/>
+	<skill id="277" name="Dance of Light"/>
+	<skill id="278" name="Summon Viper Cubic"/>
+	<skill id="279" name="Lightning Strike"/>
+	<skill id="280" name="Burning Fist"/>
+	<skill id="281" name="Soul Breaker"/>
+	<skill id="282" name="Puma Spirit Totem"/>
+	<skill id="283" name="Summon Dark Panther"/>
+	<skill id="284" name="Hurricane Assault"/>
+	<skill id="285" name="Higher Mana Gain"/>
+	<skill id="286" name="Provoke"/>
+	<skill id="287" name="Lionheart"/>
+	<skill id="288" name="Guard Stance"/>
+	<skill id="289" name="Life Leech"/>
+	<skill id="290" name="Final Frenzy"/>
+	<skill id="291" name="Final Fortress"/>
+	<skill id="292" name="Bison Spirit Totem"/>
+	<skill id="293" name="Two-handed Weapon Mastery"/>
+	<skill id="294" name="Shadow Sense"/>
+	<skill id="295" name="Iron Body"/>
+	<skill id="296" name="Chameleon Rest"/>
+	<skill id="297" name="Duelist Spirit"/>
+	<skill id="298" name="Rabbit Spirit Totem"/>
+	<skill id="299" name="Summon Wild Hog Cannon"/>
+	<skill id="301" name="Summon Big Boom"/>
+	<skill id="302" name="Spoil Festival"/>
+	<skill id="303" name="Soul of Sagittarius"/>
+	<skill id="304" name="Song of Vitality"/>
+	<skill id="305" name="Song of Vengeance"/>
+	<skill id="306" name="Song of Flame Guard"/>
+	<skill id="307" name="Dance of Aqua Guard"/>
+	<skill id="308" name="Song of Storm Guard"/>
+	<skill id="309" name="Dance of Earth Guard"/>
+	<skill id="310" name="Dance of the Vampire"/>
+	<skill id="311" name="Dance of Protection"/>
+	<skill id="312" name="Vicious Stance"/>
+	<skill id="313" name="Snipe"/>
+	<skill id="314" name="Fatal Counter"/>
+	<skill id="315" name="Crush of Doom"/>
+	<skill id="316" name="Aegis"/>
+	<skill id="317" name="Focus Attack"/>
+	<skill id="318" name="Aegis Stance"/>
+	<skill id="319" name="Agile Movement"/>
+	<skill id="320" name="Wrath"/>
+	<skill id="321" name="Blinding Blow"/>
+	<skill id="322" name="Shield Fortress"/>
+	<skill id="323" name="Quiver of Arrow: Grade A"/>
+	<skill id="324" name="Quiver of Arrow: Grade S"/>
+	<skill id="325" name="Strider Siege Assault"/>
+	<skill id="326" name="Build Advanced Headquarters"/>
+	<skill id="327" name="Wyvern Aegis"/>
+	<skill id="328" name="Wisdom"/>
+	<skill id="329" name="Health"/>
+	<skill id="330" name="Skill Mastery"/>
+	<skill id="331" name="Skill Mastery"/>
+	<skill id="332" name="Extra Inventory"/>
+	<skill id="333" name="Extra Sell Inventory"/>
+	<skill id="334" name="Focus Skill Mastery"/>
+	<skill id="335" name="Fortitude"/>
+	<skill id="336" name="Arcane Wisdom"/>
+	<skill id="337" name="Arcane Power"/>
+	<skill id="338" name="Arcane Agility"/>
+	<skill id="339" name="Parry Stance"/>
+	<skill id="340" name="Riposte Stance"/>
+	<skill id="341" name="Touch of Life"/>
+	<skill id="342" name="Touch of Death"/>
+	<skill id="343" name="Lethal Shot"/>
+	<skill id="344" name="Lethal Blow"/>
+	<skill id="345" name="Sonic Rage"/>
+	<skill id="346" name="Raging Force"/>
+	<skill id="347" name="Earthquake"/>
+	<skill id="348" name="Spoil Crush"/>
+	<skill id="349" name="Song of Renewal"/>
+	<skill id="350" name="Physical Mirror"/>
+	<skill id="351" name="Magical Mirror"/>
+	<skill id="352" name="Shield Bash"/>
+	<skill id="353" name="Shield Slam"/>
+	<skill id="354" name="Hamstring Shot"/>
+	<skill id="355" name="Focus Death"/>
+	<skill id="356" name="Focus Chance"/>
+	<skill id="357" name="Focus Power"/>
+	<skill id="358" name="Bluff"/>
+	<skill id="359" name="Eye of Hunter"/>
+	<skill id="360" name="Eye of Slayer"/>
+	<skill id="361" name="Shock Blast"/>
+	<skill id="362" name="Armor Crush"/>
+	<skill id="363" name="Song of Meditation"/>
+	<skill id="364" name="Song of Champion"/>
+	<skill id="365" name="Siren's Dance"/>
+	<skill id="366" name="Dance of Shadows"/>
+	<skill id="367" name="Dance of Medusa"/>
+	<skill id="368" name="Vengeance"/>
+	<skill id="369" name="Evade Shot"/>
+	<skill id="370" name="Clan Vitality"/>
+	<skill id="371" name="Clan Spirituality"/>
+	<skill id="372" name="Clan Essence"/>
+	<skill id="373" name="Clan Lifeblood"/>
+	<skill id="374" name="Clan Morale"/>
+	<skill id="375" name="Clan Clarity"/>
+	<skill id="376" name="Clan Might"/>
+	<skill id="377" name="Clan Aegis"/>
+	<skill id="378" name="Clan Empowerment"/>
+	<skill id="379" name="Clan Magic Protection"/>
+	<skill id="380" name="Clan Guidance"/>
+	<skill id="381" name="Clan Agility"/>
+	<skill id="382" name="Clan Withstand-Attack"/>
+	<skill id="383" name="Clan Shield Boost"/>
+	<skill id="384" name="Clan Cyclonic Resistance"/>
+	<skill id="385" name="Clan Magmatic Resistance"/>
+	<skill id="386" name="Clan Fortitude"/>
+	<skill id="387" name="Clan Freedom"/>
+	<skill id="388" name="Clan Vigilance"/>
+	<skill id="389" name="Clan March"/>
+	<skill id="390" name="Clan Luck"/>
+	<skill id="391" name="Clan Imperium"/>
+	<skill id="392" name="none"/>
+	<skill id="393" name="none"/>
+	<skill id="394" name="none"/>
+	<skill id="395" name="Heroic Miracle"/>
+	<skill id="396" name="Heroic Berserker"/>
+	<skill id="400" name="Tribunal"/>
+	<skill id="401" name="Judgment"/>
+	<skill id="402" name="Arrest"/>
+	<skill id="403" name="Shackle"/>
+	<skill id="404" name="Mass Shackling"/>
+	<skill id="405" name="Banish Undead"/>
+	<skill id="406" name="Angelic Icon"/>
+	<skill id="407" name="Psycho Symphony"/>
+	<skill id="408" name="Demonic Blade Dance"/>
+	<skill id="409" name="Critical Blow"/>
+	<skill id="410" name="Mortal Strike"/>
+	<skill id="411" name="Stealth"/>
+	<skill id="412" name="Sand Bomb"/>
+	<skill id="413" name="Rapid Fire"/>
+	<skill id="414" name="Dead Eye"/>
+	<skill id="415" name="Spirit of Sagittarius"/>
+	<skill id="416" name="Blessing of Sagittarius"/>
+	<skill id="417" name="Pain of Sagittarius"/>
+	<skill id="418" name="Quiver of Holding"/>
+	<skill id="419" name="Summon Treasure Key"/>
+	<skill id="420" name="Zealot"/>
+	<skill id="421" name="Fell Swoop"/>
+	<skill id="422" name="Polearm Accuracy"/>
+	<skill id="423" name="Infernal Form"/>
+	<skill id="424" name="War Frenzy"/>
+	<skill id="425" name="Hawk Spirit Totem"/>
+	<skill id="426" name="Battle Force"/>
+	<skill id="427" name="Spell Force"/>
+	<skill id="428" name="Inner Rhythm"/>
+	<skill id="429" name="Knighthood"/>
+	<skill id="430" name="Master of Combat"/>
+	<skill id="431" name="Archery"/>
+	<skill id="432" name="Assassination"/>
+	<skill id="433" name="Arcane Roar"/>
+	<skill id="434" name="Necromancy"/>
+	<skill id="435" name="Summon Lore"/>
+	<skill id="436" name="Divine Lore"/>
+	<skill id="437" name="Song of Silence"/>
+	<skill id="438" name="Soul of the Phoenix"/>
+	<skill id="439" name="Shield of Revenge"/>
+	<skill id="440" name="Braveheart"/>
+	<skill id="441" name="Force Meditation"/>
+	<skill id="442" name="Sonic Barrier"/>
+	<skill id="443" name="Force Barrier"/>
+	<skill id="444" name="Festive Sweeper"/>
+	<skill id="445" name="Mirage"/>
+	<skill id="446" name="Dodge"/>
+	<skill id="447" name="Counterattack"/>
+	<skill id="448" name="Summon Swoop Cannon"/>
+	<skill id="449" name="Summon Attractive Cubic"/>
+	<skill id="450" name="Banish Seraph"/>
+	<skill id="451" name="Sonic Move"/>
+	<skill id="452" name="Shock Stomp"/>
+	<skill id="453" name="Escape Shackle"/>
+	<skill id="454" name="Symbol of Defense"/>
+	<skill id="455" name="Symbol of Noise"/>
+	<skill id="456" name="Symbol of Resistance"/>
+	<skill id="457" name="Symbol of Honor"/>
+	<skill id="458" name="Symbol of Energy"/>
+	<skill id="459" name="Symbol of the Sniper"/>
+	<skill id="460" name="Symbol of the Assassin"/>
+	<skill id="461" name="Break Duress"/>
+	<skill id="1001" name="Soul Cry"/>
+	<skill id="1002" name="Flame Chant"/>
+	<skill id="1003" name="Pa'agrian Gift"/>
+	<skill id="1004" name="The Wisdom of Pa'agrio"/>
+	<skill id="1005" name="Blessings of Pa'agrio"/>
+	<skill id="1006" name="Chant of Fire"/>
+	<skill id="1007" name="Chant of Battle"/>
+	<skill id="1008" name="The Glory of Pa'agrio"/>
+	<skill id="1009" name="Chant of Shielding"/>
+	<skill id="1010" name="Soul Shield"/>
+	<skill id="1011" name="Heal"/>
+	<skill id="1012" name="Cure Poison"/>
+	<skill id="1013" name="Recharge"/>
+	<skill id="1015" name="Battle Heal"/>
+	<skill id="1016" name="Resurrection"/>
+	<skill id="1018" name="Purify"/>
+	<skill id="1020" name="Vitalize"/>
+	<skill id="1027" name="Group Heal"/>
+	<skill id="1028" name="Might of Heaven"/>
+	<skill id="1031" name="Disrupt Undead"/>
+	<skill id="1032" name="Invigor"/>
+	<skill id="1033" name="Resist Poison"/>
+	<skill id="1034" name="Repose"/>
+	<skill id="1035" name="Mental Shield"/>
+	<skill id="1036" name="Magic Barrier"/>
+	<skill id="1040" name="Shield"/>
+	<skill id="1042" name="Hold Undead"/>
+	<skill id="1043" name="Holy Weapon"/>
+	<skill id="1044" name="Regeneration"/>
+	<skill id="1045" name="Blessed Body"/>
+	<skill id="1047" name="Mana Regeneration"/>
+	<skill id="1048" name="Blessed Soul"/>
+	<skill id="1049" name="Requiem"/>
+	<skill id="1050" name="Return"/>
+	<skill id="1056" name="Cancellation"/>
+	<skill id="1059" name="Greater Empower"/>
+	<skill id="1062" name="Berserker Spirit"/>
+	<skill id="1064" name="Silence"/>
+	<skill id="1068" name="Might"/>
+	<skill id="1069" name="Sleep"/>
+	<skill id="1071" name="Surrender To Water"/>
+	<skill id="1072" name="Sleeping Cloud"/>
+	<skill id="1073" name="Kiss of Eva"/>
+	<skill id="1074" name="Surrender To Wind"/>
+	<skill id="1075" name="Peace"/>
+	<skill id="1077" name="Focus"/>
+	<skill id="1078" name="Concentration"/>
+	<skill id="1083" name="Surrender To Fire"/>
+	<skill id="1085" name="Acumen"/>
+	<skill id="1086" name="Haste"/>
+	<skill id="1087" name="Agility"/>
+	<skill id="1090" name="Life Drain"/>
+	<skill id="1092" name="Fear"/>
+	<skill id="1095" name="Venom"/>
+	<skill id="1096" name="Seal of Chaos"/>
+	<skill id="1097" name="Dreaming Spirit"/>
+	<skill id="1099" name="Seal of Slow"/>
+	<skill id="1100" name="Chill Flame"/>
+	<skill id="1101" name="Blaze Quake"/>
+	<skill id="1102" name="Aura Sink"/>
+	<skill id="1104" name="Seal of Winter"/>
+	<skill id="1105" name="Madness"/>
+	<skill id="1107" name="Frost Flame"/>
+	<skill id="1108" name="Seal of Flame"/>
+	<skill id="1111" name="Summon Kat the Cat"/>
+	<skill id="1126" name="Servitor Recharge"/>
+	<skill id="1127" name="Servitor Heal"/>
+	<skill id="1128" name="Summon Shadow"/>
+	<skill id="1129" name="Summon Reanimated Man"/>
+	<skill id="1139" name="Servitor Magic Shield"/>
+	<skill id="1140" name="Servitor Physical Shield"/>
+	<skill id="1141" name="Servitor Haste"/>
+	<skill id="1144" name="Fast Servitor"/>
+	<skill id="1145" name="Bright Servitor"/>
+	<skill id="1146" name="Mighty Servitor"/>
+	<skill id="1147" name="Vampiric Touch"/>
+	<skill id="1148" name="Death Spike"/>
+	<skill id="1151" name="Corpse Life Drain"/>
+	<skill id="1154" name="Summon Corrupted Man"/>
+	<skill id="1155" name="Corpse Burst"/>
+	<skill id="1156" name="Forget"/>
+	<skill id="1157" name="Body To Mind"/>
+	<skill id="1159" name="Curse Death Link"/>
+	<skill id="1160" name="Slow"/>
+	<skill id="1163" name="Curse Discord"/>
+	<skill id="1164" name="Curse: Weakness"/>
+	<skill id="1167" name="Poisonous Cloud"/>
+	<skill id="1168" name="Curse: Poison"/>
+	<skill id="1169" name="Curse Fear"/>
+	<skill id="1170" name="Anchor"/>
+	<skill id="1171" name="Blazing Circle"/>
+	<skill id="1172" name="Aura Burn"/>
+	<skill id="1174" name="Frost Wall"/>
+	<skill id="1175" name="Aqua Swirl"/>
+	<skill id="1176" name="Tempest"/>
+	<skill id="1177" name="Wind Strike"/>
+	<skill id="1178" name="Twister"/>
+	<skill id="1181" name="Flame Strike"/>
+	<skill id="1182" name="Resist Aqua"/>
+	<skill id="1183" name="Freezing Shackle"/>
+	<skill id="1184" name="Ice Bolt"/>
+	<skill id="1189" name="Resist Wind"/>
+	<skill id="1191" name="Resist Fire"/>
+	<skill id="1201" name="Dryad Root"/>
+	<skill id="1204" name="Wind Walk"/>
+	<skill id="1206" name="Wind Shackle"/>
+	<skill id="1208" name="Seal of Binding"/>
+	<skill id="1209" name="Seal of Poison"/>
+	<skill id="1210" name="Seal of Gloom"/>
+	<skill id="1213" name="Seal of Mirage"/>
+	<skill id="1216" name="Self Heal"/>
+	<skill id="1217" name="Greater Heal"/>
+	<skill id="1218" name="Greater Battle Heal"/>
+	<skill id="1219" name="Greater Group Heal"/>
+	<skill id="1220" name="Blaze"/>
+	<skill id="1222" name="Curse Chaos"/>
+	<skill id="1223" name="Surrender To Earth"/>
+	<skill id="1224" name="Surrender To Poison"/>
+	<skill id="1225" name="Summon Mew the Cat"/>
+	<skill id="1226" name="Summon Boxer the Unicorn"/>
+	<skill id="1227" name="Summon Mirage the Unicorn"/>
+	<skill id="1228" name="Summon Silhouette"/>
+	<skill id="1229" name="Chant of Life"/>
+	<skill id="1230" name="Prominence"/>
+	<skill id="1231" name="Aura Flare"/>
+	<skill id="1232" name="Blazing Skin"/>
+	<skill id="1233" name="Decay"/>
+	<skill id="1234" name="Vampiric Claw"/>
+	<skill id="1235" name="Hydro Blast"/>
+	<skill id="1236" name="Frost Bolt"/>
+	<skill id="1237" name="Ice Dagger"/>
+	<skill id="1238" name="Freezing Skin"/>
+	<skill id="1239" name="Hurricane"/>
+	<skill id="1240" name="Guidance"/>
+	<skill id="1242" name="Death Whisper"/>
+	<skill id="1243" name="Bless Shield"/>
+	<skill id="1244" name="Freezing Flame"/>
+	<skill id="1245" name="Steal Essence"/>
+	<skill id="1246" name="Seal of Silence"/>
+	<skill id="1247" name="Seal of Scourge"/>
+	<skill id="1248" name="Seal of Suspension"/>
+	<skill id="1249" name="The Vision of Pa'agrio"/>
+	<skill id="1250" name="Under the Protection of Pa'agrio"/>
+	<skill id="1251" name="Chant of Fury"/>
+	<skill id="1252" name="Chant of Evasion"/>
+	<skill id="1253" name="Chant of Rage"/>
+	<skill id="1254" name="Mass Resurrection"/>
+	<skill id="1255" name="Party Recall"/>
+	<skill id="1256" name="The Heart of Pa'agrio"/>
+	<skill id="1257" name="Decrease Weight"/>
+	<skill id="1258" name="Restore Life"/>
+	<skill id="1259" name="Resist Shock"/>
+	<skill id="1260" name="The Tact of Pa'agrio"/>
+	<skill id="1261" name="The Rage of Pa'agrio"/>
+	<skill id="1262" name="Transfer Pain"/>
+	<skill id="1263" name="Curse Gloom"/>
+	<skill id="1264" name="Solar Spark"/>
+	<skill id="1265" name="Solar Flare"/>
+	<skill id="1266" name="Shadow Spark"/>
+	<skill id="1267" name="Shadow Flare"/>
+	<skill id="1268" name="Vampiric Rage"/>
+	<skill id="1269" name="Curse Disease"/>
+	<skill id="1271" name="Benediction"/>
+	<skill id="1272" name="Word of Fear"/>
+	<skill id="1273" name="Serenade of Eva"/>
+	<skill id="1274" name="Energy Bolt"/>
+	<skill id="1275" name="Aura Bolt"/>
+	<skill id="1276" name="Summon Kai the Cat"/>
+	<skill id="1277" name="Summon Merrow the Unicorn"/>
+	<skill id="1278" name="Summon Soulless"/>
+	<skill id="1279" name="Summon Binding Cubic"/>
+	<skill id="1280" name="Summon Aqua Cubic"/>
+	<skill id="1281" name="Summon Spark Cubic"/>
+	<skill id="1282" name="Pa'agrian Haste"/>
+	<skill id="1283" name="Soul Guard"/>
+	<skill id="1284" name="Chant of Revenge"/>
+	<skill id="1285" name="Seed of Fire"/>
+	<skill id="1286" name="Seed of Water"/>
+	<skill id="1287" name="Seed of Wind"/>
+	<skill id="1288" name="Aura Symphony"/>
+	<skill id="1289" name="Inferno"/>
+	<skill id="1290" name="Blizzard"/>
+	<skill id="1291" name="Demon Wind"/>
+	<skill id="1292" name="Elemental Assault"/>
+	<skill id="1293" name="Elemental Symphony"/>
+	<skill id="1294" name="Elemental Storm"/>
+	<skill id="1295" name="Aqua Splash"/>
+	<skill id="1296" name="Rain of Fire"/>
+	<skill id="1297" name="Clear Mind"/>
+	<skill id="1298" name="Mass Slow"/>
+	<skill id="1299" name="Servitor Empowerment"/>
+	<skill id="1300" name="Servitor Cure"/>
+	<skill id="1301" name="Servitor Blessing"/>
+	<skill id="1303" name="Wild Magic"/>
+	<skill id="1304" name="Advanced Block"/>
+	<skill id="1305" name="The Honor of Pa'agrio"/>
+	<skill id="1306" name="Ritual of Life"/>
+	<skill id="1307" name="Prayer"/>
+	<skill id="1308" name="Chant of Predator"/>
+	<skill id="1309" name="Chant of Eagle"/>
+	<skill id="1310" name="Chant of Vampire"/>
+	<skill id="1311" name="Body Of Avatar"/>
+	<skill id="1312" name="Fishing"/>
+	<skill id="1313" name="Pumping"/>
+	<skill id="1314" name="Reeling"/>
+	<skill id="1315" name="Fishing Expertise"/>
+	<skill id="1316" name="Fishing Expertise -C-Grade"/>
+	<skill id="1317" name="Fishing Expertise -B-Grade"/>
+	<skill id="1318" name="Fishing Expertise -A-Grade"/>
+	<skill id="1319" name="Fishing Expertise -S-Grade"/>
+	<skill id="1320" name="Create Common Item"/>
+	<skill id="1321" name="Dwarven Craft"/>
+	<skill id="1322" name="Common Craft"/>
+	<skill id="1323" name="Noblesse Blessing"/>
+	<skill id="1324" name="Summon CP Potion"/>
+	<skill id="1325" name="Fortune of Noblesse"/>
+	<skill id="1326" name="Harmony of Noblesse"/>
+	<skill id="1327" name="Symphony of Noblesse"/>
+	<skill id="1328" name="Mass Summon Storm Cubic"/>
+	<skill id="1329" name="Mass Summon Aqua Cubic"/>
+	<skill id="1330" name="Mass Summon Phantom Cubic"/>
+	<skill id="1331" name="Summon Feline Queen"/>
+	<skill id="1332" name="Summon Unicorn Seraphim"/>
+	<skill id="1333" name="Summon Nightshade"/>
+	<skill id="1334" name="Summon Cursed Man"/>
+	<skill id="1335" name="Balance Life"/>
+	<skill id="1336" name="Curse of Doom"/>
+	<skill id="1337" name="Curse of Abyss"/>
+	<skill id="1338" name="Arcane Chaos"/>
+	<skill id="1339" name="Fire Vortex"/>
+	<skill id="1340" name="Ice Vortex"/>
+	<skill id="1341" name="Wind Vortex"/>
+	<skill id="1342" name="Light Vortex"/>
+	<skill id="1343" name="Dark Vortex"/>
+	<skill id="1344" name="Mass Warrior Bane"/>
+	<skill id="1345" name="Mass Mage Bane"/>
+	<skill id="1346" name="Warrior Servitor"/>
+	<skill id="1347" name="Wizard Servitor"/>
+	<skill id="1348" name="Assassin Servitor"/>
+	<skill id="1349" name="Final Servitor"/>
+	<skill id="1350" name="Warrior Bane"/>
+	<skill id="1351" name="Mage Bane"/>
+	<skill id="1352" name="Elemental Protection"/>
+	<skill id="1353" name="Divine Protection"/>
+	<skill id="1354" name="Arcane Protection"/>
+	<skill id="1355" name="Prophecy of Water"/>
+	<skill id="1356" name="Prophecy of Fire"/>
+	<skill id="1357" name="Prophecy of Wind"/>
+	<skill id="1358" name="Block Shield"/>
+	<skill id="1359" name="Block Wind Walk"/>
+	<skill id="1360" name="Mass Block Shield"/>
+	<skill id="1361" name="Mass Block Wind Walk"/>
+	<skill id="1362" name="Chant of Spirit"/>
+	<skill id="1363" name="Chant of Victory"/>
+	<skill id="1364" name="The Eye of Pa'agrio"/>
+	<skill id="1365" name="The Soul of Pa'agrio"/>
+	<skill id="1366" name="Seal of Despair"/>
+	<skill id="1367" name="Seal of Disease"/>
+	<skill id="1368" name="Expand Dwarven Craft"/>
+	<skill id="1369" name="Expand Common Craft"/>
+	<skill id="1370" name="Expand Trade"/>
+	<skill id="1371" name="Expand Storage"/>
+	<skill id="1372" name="Expand Inventory"/>
+	<skill id="1373" name="Strider Mastery"/>
+	<skill id="1374" name="Heroic Valor"/>
+	<skill id="1375" name="Heroic Grandeur"/>
+	<skill id="1376" name="Heroic Dread"/>
+	<skill id="1377" name="none"/>
+	<skill id="1378" name="none"/>
+	<skill id="1379" name="none"/>
+	<skill id="1380" name="Betray"/>
+	<skill id="1381" name="Mass Fear"/>
+	<skill id="1382" name="Mass Gloom"/>
+	<skill id="1383" name="Mass Surrender to Fire"/>
+	<skill id="1384" name="Mass Surrender to Water"/>
+	<skill id="1385" name="Mass Surrender to Wind"/>
+	<skill id="1386" name="Arcane Distruption"/>
+	<skill id="1387" name="Summon Cursed Bones"/>
+	<skill id="1388" name="Greater Might"/>
+	<skill id="1389" name="Greater Shield"/>
+	<skill id="1390" name="War Chant"/>
+	<skill id="1391" name="Earth Chant"/>
+	<skill id="1392" name="Holy Resistance"/>
+	<skill id="1393" name="Unholy Resistance"/>
+	<skill id="1394" name="Trance"/>
+	<skill id="1395" name="Erase"/>
+	<skill id="1396" name="Magical Backfire"/>
+	<skill id="1397" name="Clarity"/>
+	<skill id="1398" name="Mana Burn"/>
+	<skill id="1399" name="Mana Storm"/>
+	<skill id="1400" name="Turn Undead"/>
+	<skill id="1401" name="Major Heal"/>
+	<skill id="1402" name="Major Group Heal"/>
+	<skill id="1403" name="Summon Friend"/>
+	<skill id="1404" name="Word of Invitation"/>
+	<skill id="1405" name="Divine Inspiration"/>
+	<skill id="1406" name="Summon Feline King"/>
+	<skill id="1407" name="Summon Magnus the Unicorn"/>
+	<skill id="1408" name="Summon Spectral Lord"/>
+	<skill id="1409" name="Cleanse"/>
+	<skill id="1410" name="Salvation"/>
+	<skill id="1411" name="Mystic Immunity"/>
+	<skill id="1412" name="Spell Turning"/>
+	<skill id="1413" name="Magnus' Chant"/>
+	<skill id="1414" name="Victories of Pa'agrio"/>
+	<skill id="1415" name="Pa'agrio's Emblem"/>
+	<skill id="1416" name="Pa'agrio's Fist"/>
+	<skill id="1417" name="Aura Flash"/>
+	<skill id="1418" name="Celestial Shield"/>
+	<skill id="1419" name="Volcano"/>
+	<skill id="1420" name="Cyclone"/>
+	<skill id="1421" name="Raging Waves"/>
+	<skill id="1422" name="Day of Doom"/>
+	<skill id="1423" name="Gehenna"/>
+	<skill id="1424" name="Anti-Summoning Field"/>
+	<skill id="1425" name="Purification Field"/>
+	<skill id="1426" name="Miracle"/>
+	<skill id="1427" name="Flames of Invincibility"/>
+	<skill id="1428" name="Mass Recharge"/>
+	<skill id="1429" name="Gate Chant"/>
+	<skill id="1430" name="Invocation"/>
+	<skill id="2001" name="Red Potion"/>
+	<skill id="2002" name="Healing Drug"/>
+	<skill id="2003" name="Squash Seed"/>
+	<skill id="2004" name="Large Squash Seed"/>
+	<skill id="2005" name="Nectar"/>
+	<skill id="2006" name="Scroll: Enchant Weapon (Grade A)"/>
+	<skill id="2007" name="Scroll: Enchant Armor (Grade A)"/>
+	<skill id="2008" name="Item - Beast Spirit Shot"/>
+	<skill id="2009" name="Item - Beast Blessed Spirit Shot"/>
+	<skill id="2010" name="Endeavor Potion"/>
+	<skill id="2011" name="Haste Potion"/>
+	<skill id="2012" name="Potion of Alacrity"/>
+	<skill id="2013" name="Scroll Of Escape"/>
+	<skill id="2014" name="Scroll Of Resurrection"/>
+	<skill id="2015" name="Scroll: Enchant Weapon (Grade B)"/>
+	<skill id="2016" name="Scroll: Enchant Armor (Grade B)"/>
+	<skill id="2017" name="Scroll: Enchant Weapon (Grade C)"/>
+	<skill id="2018" name="Scroll: Enchant Armor (Grade C)"/>
+	<skill id="2019" name="Scroll: Enchant Weapon (Grade D)"/>
+	<skill id="2020" name="Scroll: Enchant Armor (Grade D)"/>
+	<skill id="2021" name="Scroll: Enchant Weapon (Grade S)"/>
+	<skill id="2022" name="Scroll: Enchant Armor (Grade S)"/>
+	<skill id="2023" name="Fairy Firecracker"/>
+	<skill id="2024" name="Firecracker"/>
+	<skill id="2025" name="Large Firecracker"/>
+	<skill id="2026" name="Scroll: Enchant Weapon (Grade S)"/>
+	<skill id="2027" name="Scroll: Enchant Weapon (Grade A)"/>
+	<skill id="2028" name="Scroll: Enchant Weapon (Grade B)"/>
+	<skill id="2029" name="Scroll: Enchant Weapon (Grade C)"/>
+	<skill id="2030" name="Scroll: Enchant Weapon (Grade D)"/>
+	<skill id="2031" name="Lesser Healing Potion"/>
+	<skill id="2032" name="Healing potion"/>
+	<skill id="2033" name="Item - Beast Soul Shot"/>
+	<skill id="2034" name="Greater Haste Potion"/>
+	<skill id="2035" name="Greater Swift Attack Potion"/>
+	<skill id="2036" name="Blessed Scroll of Escape"/>
+	<skill id="2037" name="Greater Healing Potion"/>
+	<skill id="2038" name="Quick Healing Potion"/>
+	<skill id="2039" name="Soulshot: No Grade"/>
+	<skill id="2040" name="Scroll of Escape: Clan Hall"/>
+	<skill id="2041" name="Scroll of Escape: Castle"/>
+	<skill id="2042" name="Antidote"/>
+	<skill id="2043" name="Greater Antidote"/>
+	<skill id="2044" name="Bandage"/>
+	<skill id="2045" name="Emergency Dressing"/>
+	<skill id="2046" name="Wolf's Necklace"/>
+	<skill id="2047" name="Spiritshot: No Grade"/>
+	<skill id="2048" name="Wolves' Food"/>
+	<skill id="2049" name="Blessed Scroll of Resurrection"/>
+	<skill id="2050" name="Scroll of Guidance"/>
+	<skill id="2051" name="Scroll of Death Whisper"/>
+	<skill id="2052" name="Scroll of Focus"/>
+	<skill id="2053" name="Scroll of Greater Acumen"/>
+	<skill id="2054" name="Scroll of Haste"/>
+	<skill id="2055" name="Scroll of Agility"/>
+	<skill id="2056" name="Scroll of Mystic Empower"/>
+	<skill id="2057" name="Scroll of Might"/>
+	<skill id="2058" name="Scroll of Wind Walk"/>
+	<skill id="2059" name="Scroll of Shield"/>
+	<skill id="2060" name="Healing Medicine"/>
+	<skill id="2061" name="Blessed Spiritshot: No Grade"/>
+	<skill id="2062" name="Blessed Scroll of Resurrection"/>
+	<skill id="2063" name="Hatchling Food"/>
+	<skill id="2064" name="Scroll of Mana Regeneration"/>
+	<skill id="2065" name="Box Key"/>
+	<skill id="2066" name="Item - Theme Sound Crystal"/>
+	<skill id="2067" name="Item - Theme Sound Crystal"/>
+	<skill id="2068" name="Item - Race Sound Crystal"/>
+	<skill id="2069" name="Item - Race Sound Crystal"/>
+	<skill id="2070" name="Item - Race Sound Crystal"/>
+	<skill id="2071" name="Item - Race Sound Crystal"/>
+	<skill id="2072" name="Item - Race Sound Crystal"/>
+	<skill id="2073" name="Item - Theme Sound Crystal"/>
+	<skill id="2074" name="Potion of Critical Escape"/>
+	<skill id="2075" name="Decrease Hate Scroll"/>
+	<skill id="2076" name="Bless of Eva"/>
+	<skill id="2077" name="Potion of Revenge"/>
+	<skill id="2078" name="Compressed Package of Soulshots: No Grade"/>
+	<skill id="2079" name="Compressed Package of Soulshots: D-grade"/>
+	<skill id="2080" name="Compressed Package of Soulshots: C-grade"/>
+	<skill id="2081" name="Compressed Package of Soulshots: B-grade"/>
+	<skill id="2082" name="Compressed Package of Soulshots: A-grade"/>
+	<skill id="2083" name="Compressed Package of Soulshots: S-grade"/>
+	<skill id="2084" name="Compressed Package of Spiritshots: No Grade"/>
+	<skill id="2085" name="Compressed Package of Spiritshots: D-grade"/>
+	<skill id="2086" name="Compressed Package of Spiritshots: C-grade"/>
+	<skill id="2087" name="Compressed Package of Spiritshots: B-grade"/>
+	<skill id="2088" name="Compressed Package of Spiritshots: A-grade"/>
+	<skill id="2089" name="Compressed Package of Spiritshots: S-grade"/>
+	<skill id="2090" name="Compressed Package of Blessed Spiritshots: No Grade"/>
+	<skill id="2091" name="Compressed Package of Blessed Spiritshots: D-grade"/>
+	<skill id="2092" name="Compressed Package of Blessed Spiritshots: C-grade"/>
+	<skill id="2093" name="Compressed Package of Blessed Spiritshots: B-grade"/>
+	<skill id="2094" name="Compressed Package of Blessed Spiritshots: A-grade"/>
+	<skill id="2095" name="Compressed Package of Blessed Spiritshots: S-grade"/>
+	<skill id="2096" name="Soul Crystal"/>
+	<skill id="2097" name="Sowing"/>
+	<skill id="2098" name="Harvesting"/>
+	<skill id="2099" name="Escape: 5 minutes"/>
+	<skill id="2100" name="Escape: 1 second"/>
+	<skill id="2101" name="Feed: General Strider"/>
+	<skill id="2102" name="Feed: Clan Hall Strider"/>
+	<skill id="2103" name="Mystery Potion"/>
+	<skill id="2104" name="Greater Compressed Package of Soulshots: No-grade"/>
+	<skill id="2105" name="Greater Compressed Package of Soulshots: D-grade"/>
+	<skill id="2106" name="Greater Compressed Package of Soulshots: C-grade"/>
+	<skill id="2107" name="Greater Compressed Package of Soulshots: B-grade"/>
+	<skill id="2108" name="Greater Compressed Package of Soulshots: A-grade"/>
+	<skill id="2109" name="Greater Compressed Package of Soulshots: S-grade"/>
+	<skill id="2110" name="Greater Compressed Package of Spiritshots: No-grade"/>
+	<skill id="2111" name="Greater Compressed Package of Spiritshots: D-grade"/>
+	<skill id="2112" name="Greater Compressed Package of Spiritshots: C-grade"/>
+	<skill id="2113" name="Greater Compressed Package of Spiritshots: B-grade"/>
+	<skill id="2114" name="Greater Compressed Package of Spiritshots: A-grade"/>
+	<skill id="2115" name="Greater Compressed Package of Spiritshots: S-grade"/>
+	<skill id="2116" name="Greater Compressed Package of Blessed Spiritshots: No-grade"/>
+	<skill id="2117" name="Greater Compressed Package of Blessed Spiritshots: D-grade"/>
+	<skill id="2118" name="Greater Compressed Package of Blessed Spiritshots: C-grade"/>
+	<skill id="2119" name="Greater Compressed Package of Blessed Spiritshots: B-grade"/>
+	<skill id="2120" name="Greater Compressed Package of Blessed Spiritshots: A-grade"/>
+	<skill id="2121" name="Greater Compressed Package of Blessed Spiritshots: S-grade"/>
+	<skill id="2122" name="Facelifting Potion"/>
+	<skill id="2123" name="Facelifting Potion"/>
+	<skill id="2124" name="Facelifting Potion"/>
+	<skill id="2125" name="Dye Potion"/>
+	<skill id="2126" name="Dye Potion"/>
+	<skill id="2127" name="Dye Potion"/>
+	<skill id="2128" name="Dye Potion"/>
+	<skill id="2129" name="Hair Style Change Potion"/>
+	<skill id="2130" name="Hair Style Change Potion"/>
+	<skill id="2131" name="Hair Style Change Potion"/>
+	<skill id="2132" name="Hair Style Change Potion"/>
+	<skill id="2133" name="Hair Style Change Potion"/>
+	<skill id="2134" name="Hair Style Change Potion"/>
+	<skill id="2135" name="Hair Style Change Potion"/>
+	<skill id="2136" name="Rice Cake"/>
+	<skill id="2137" name="Summon Regular Tree"/>
+	<skill id="2138" name="Summon Special Tree"/>
+	<skill id="2139" name="Special Tree Recovery Bonus"/>
+	<skill id="2140" name="Item - Carol Sound Crystal"/>
+	<skill id="2141" name="Item - Carol Sound Crystal"/>
+	<skill id="2142" name="Item - Carol Sound Crystal"/>
+	<skill id="2143" name="Item - Carol Sound Crystal"/>
+	<skill id="2144" name="Item - Carol Sound Crystal"/>
+	<skill id="2145" name="Item - Carol Sound Crystal"/>
+	<skill id="2146" name="Item - Carol Sound Crystal"/>
+	<skill id="2147" name="Item - Carol Sound Crystal"/>
+	<skill id="2148" name="Item - Carol Sound Crystal"/>
+	<skill id="2149" name="Item - Carol Sound Crystal"/>
+	<skill id="2150" name="Soulshot: D-Grade"/>
+	<skill id="2151" name="Soulshot: C-Grade"/>
+	<skill id="2152" name="Soulshot: B-Grade"/>
+	<skill id="2153" name="Soulshot: A-Grade"/>
+	<skill id="2154" name="Soulshot: S-Grade"/>
+	<skill id="2155" name="Spiritshot: D-Grade"/>
+	<skill id="2156" name="Spiritshot: C-Grade"/>
+	<skill id="2157" name="Spiritshot: B-Grade"/>
+	<skill id="2158" name="Spiritshot: A-Grade"/>
+	<skill id="2159" name="Spiritshot: S-Grade"/>
+	<skill id="2160" name="Blessed Spiritshot: D-Grade"/>
+	<skill id="2161" name="Blessed Spiritshot: C-Grade"/>
+	<skill id="2162" name="Blessed Spiritshot: B-Grade"/>
+	<skill id="2163" name="Blessed Spiritshot: A-Grade"/>
+	<skill id="2164" name="Blessed Spiritshot: S-Grade"/>
+	<skill id="2165" name="Energy Stone"/>
+	<skill id="2166" name="CP Gauge Potion"/>
+	<skill id="2167" name="Scroll of SP"/>
+	<skill id="2168" name="Raid Blessing"/>
+	<skill id="2169" name="Magic Haste Potion"/>
+	<skill id="2170" name="Scroll: Cancel Sleep"/>
+	<skill id="2171" name="Spellbook Paper"/>
+	<skill id="2172" name="Scroll of Giants"/>
+	<skill id="2173" name="Book of Giants"/>
+	<skill id="2174" name="Ingredient Bag"/>
+	<skill id="2175" name="Ingredient Box"/>
+	<skill id="2176" name="Ancient Papyrus"/>
+	<skill id="2177" name="Blessed Scroll of Escape: Clan Hall"/>
+	<skill id="2178" name="Blessed Scroll of Escape: Castle"/>
+	<skill id="2179" name="Blessed Scroll of Resurrection: Pet"/>
+	<skill id="2180" name="Feed: Castle Strider"/>
+	<skill id="2181" name="Item - Fishing Shot"/>
+	<skill id="2182" name="Item - Fishing Shot"/>
+	<skill id="2183" name="Item - Fishing Shot"/>
+	<skill id="2184" name="Item - Fishing Shot"/>
+	<skill id="2185" name="Item - Fishing Shot"/>
+	<skill id="2186" name="Item - Fishing Shot"/>
+	<skill id="2187" name="Item - Special Sound Crystal"/>
+	<skill id="2188" name="Golden Spice"/>
+	<skill id="2189" name="Crystal Spice"/>
+	<skill id="2190" name="Item - Green Fish"/>
+	<skill id="2191" name="Item - Jade Fish"/>
+	<skill id="2192" name="Item - Blue Fish"/>
+	<skill id="2193" name="Item - Yellow Fish"/>
+	<skill id="2194" name="Item - Orange Fish"/>
+	<skill id="2195" name="Item - Violet Fish"/>
+	<skill id="2196" name="Item - Red Fish"/>
+	<skill id="2197" name="Item - White Fish"/>
+	<skill id="2198" name="Item - Black Fish"/>
+	<skill id="2199" name="Item - Green Treasure Box"/>
+	<skill id="2200" name="Item - Jade Treasure Box"/>
+	<skill id="2201" name="Item - Blue Treasure Box"/>
+	<skill id="2202" name="Item - Yellow Treasure Box"/>
+	<skill id="2203" name="Item - Orange Treasure Box"/>
+	<skill id="2204" name="Item - Violet Treasure Box"/>
+	<skill id="2205" name="Item - Red Treasure Box"/>
+	<skill id="2206" name="Item - White Treasure Box"/>
+	<skill id="2207" name="Item - Black Treasure Box"/>
+	<skill id="2208" name="Item - Blessed Scroll of Enchant Armor"/>
+	<skill id="2209" name="Item - Blessed Scroll of Enchant Armor"/>
+	<skill id="2210" name="Item - Blessed Scroll of Enchant Armor"/>
+	<skill id="2211" name="Item - Blessed Scroll of Enchant Armor"/>
+	<skill id="2212" name="Item - Blessed Scroll of Enchant Armor"/>
+	<skill id="2213" name="Escape - to X Town"/>
+	<skill id="2214" name="Scroll of Escape to Talking Island"/>
+	<skill id="2215" name="Item - Quest Special Box"/>
+	<skill id="2216" name="Item - Quest Special Fish"/>
+	<skill id="2217" name="Item - Quest Treasure Box"/>
+	<skill id="2218" name="Item - Quest Sac"/>
+	<skill id="2219" name="Item - Quest Sac"/>
+	<skill id="2220" name="Item - Easy Green Fish"/>
+	<skill id="2221" name="Item - Easy Jade Fish"/>
+	<skill id="2222" name="Item - Easy Blue Fish"/>
+	<skill id="2223" name="Item - Easy Yellow Fish"/>
+	<skill id="2224" name="Item - Easy Orange Fish"/>
+	<skill id="2225" name="Item - Easy Violet Fish"/>
+	<skill id="2226" name="Item - Easy Red Fish"/>
+	<skill id="2227" name="Item - Easy White Fish"/>
+	<skill id="2228" name="Item - Easy Black Fish"/>
+	<skill id="2229" name="Treasure Chest Key"/>
+	<skill id="2230" name="Item - Theme Sound Crystal"/>
+	<skill id="2231" name="Amulet: Protection of Valakas"/>
+	<skill id="2232" name="Amulet: Slay Valakas"/>
+	<skill id="2233" name="Amulet: Flames of Valakas"/>
+	<skill id="2234" name="Soul Breaking Arrow"/>
+	<skill id="2235" name="Anteroom Door Key"/>
+	<skill id="2236" name="Chapel Door Key"/>
+	<skill id="2237" name="Altar Door Key"/>
+	<skill id="2238" name="Room of Splendor Key"/>
+	<skill id="2239" name="Petrification Scroll"/>
+	<skill id="2240" name="Hot Spring Nectar"/>
+	<skill id="2241" name="Hot Spring Mineral Water"/>
+	<skill id="2242" name="Hot Spring Fountain Water"/>
+	<skill id="2243" name="Hot Spring Sulfur"/>
+	<skill id="2244" name="Herb of Life"/>
+	<skill id="2245" name="Herb of Mana"/>
+	<skill id="2246" name="Herb of Power"/>
+	<skill id="2247" name="Herb of Magic"/>
+	<skill id="2248" name="Bless of Fire"/>
+	<skill id="2249" name="Bless of Water"/>
+	<skill id="2250" name="Bless of Wind"/>
+	<skill id="2251" name="Bless of Earth"/>
+	<skill id="2252" name="Bless of Darkness"/>
+	<skill id="2253" name="Bless of Sacredness"/>
+	<skill id="2254" name="Crystal of Fire"/>
+	<skill id="2255" name="Crystal of Water"/>
+	<skill id="2256" name="Crystal of Wind"/>
+	<skill id="2257" name="Crystal of Earth"/>
+	<skill id="2258" name="Crystal of Darkness"/>
+	<skill id="2259" name="Crystal of Sacredness"/>
+	<skill id="2260" name="Key of Riddles"/>
+	<skill id="2261" name="Item - Hard Green Fish"/>
+	<skill id="2262" name="Item - Hard Jade Fish"/>
+	<skill id="2263" name="Item - Hard Blue Fish"/>
+	<skill id="2264" name="Item - Hard Yellow Fish"/>
+	<skill id="2265" name="Item - Hard Orange Fish"/>
+	<skill id="2266" name="Item - Hard Violet Fish"/>
+	<skill id="2267" name="Item - Hard Red Fish"/>
+	<skill id="2268" name="Item - Hard White Fish"/>
+	<skill id="2269" name="Item - Hard Black Fish"/>
+	<skill id="2270" name="Item - Adventurer Box"/>
+	<skill id="2271" name="Item - Hot Spring Fish"/>
+	<skill id="2272" name="Item - Fight Song Crystal"/>
+	<skill id="2273" name="Item - Red Devil Support Box"/>
+	<skill id="2274" name="Fisherman's Potion"/>
+	<skill id="2275" name="Fishing Potion"/>
+	<skill id="2276" name="Dewdrop of Destruction"/>
+	<skill id="2277" name="Event Gift Box"/>
+	<skill id="2278" name="Herb of Life"/>
+	<skill id="2279" name="Herb of Mana"/>
+	<skill id="2280" name="Herb of Power"/>
+	<skill id="2281" name="Herb of Magic"/>
+	<skill id="2282" name="Herb of Atk. Spd."/>
+	<skill id="2283" name="Herb of Casting Spd."/>
+	<skill id="2284" name="Herb of Critical Attack"/>
+	<skill id="2285" name="Herb of Speed"/>
+	<skill id="2286" name="Scroll: Recovery"/>
+	<skill id="2287" name="Elixir of Life"/>
+	<skill id="2288" name="Elixir of Mental Strength"/>
+	<skill id="2289" name="Elixir of CP"/>
+	<skill id="2290" name="Halloween Box"/>
+	<skill id="2291" name="Facelifting Potion"/>
+	<skill id="2292" name="Facelifting Potion"/>
+	<skill id="2293" name="Facelifting Potion"/>
+	<skill id="2294" name="Dye Potion"/>
+	<skill id="2295" name="Dye Potion"/>
+	<skill id="2296" name="Dye Potion"/>
+	<skill id="2297" name="Dye Potion"/>
+	<skill id="2298" name="Hair Style Change Potion"/>
+	<skill id="2299" name="Hair Style Change Potion"/>
+	<skill id="2300" name="Hair Style Change Potion"/>
+	<skill id="2301" name="Hair Style Change Potion"/>
+	<skill id="2302" name="Hair Style Change Potion"/>
+	<skill id="2303" name="Hair Style Change Potion"/>
+	<skill id="2304" name="Hair Style Change Potion"/>
+	<skill id="2305" name="Primeval Potion"/>
+	<skill id="2306" name="Primeval Crystals"/>
+	<skill id="2307" name="Remove Petrification Scroll"/>
+	<skill id="2308" name="Event Item"/>
+	<skill id="2309" name="Pig Chest"/>
+	<skill id="2310" name="Scroll of Guidance - Event Use"/>
+	<skill id="2311" name="Scroll of Death Whisper - Event Use"/>
+	<skill id="2312" name="Scroll of Focus - Event Use"/>
+	<skill id="2313" name="Scroll of Acumen - Event Use"/>
+	<skill id="2314" name="Scroll of Haste - Event Use"/>
+	<skill id="2315" name="Scroll of Agility - Event Use"/>
+	<skill id="2316" name="Scroll of Empower - Event Use"/>
+	<skill id="2317" name="Scroll of Might - Event Use"/>
+	<skill id="2318" name="Scroll of Wind Walk - Event Use"/>
+	<skill id="2319" name="Scroll of Shield - Event Use"/>
+	<skill id="2320" name="Blessed Scroll of Escape - Event Use"/>
+	<skill id="2321" name="Blessed Scroll of Resurrection - Event Use"/>
+	<skill id="2322" name="Chest Key - For Events Only"/>
+	<skill id="2323" name="Red Sage's Stone"/>
+	<skill id="2324" name="Blue Sage's Stone"/>
+	<skill id="2325" name="Orange Sage's Stone"/>
+	<skill id="2326" name="Black Sage's Stone"/>
+	<skill id="2327" name="White Sage's Stone"/>
+	<skill id="2328" name="Green Sage's Stone"/>
+	<skill id="3001" name="int_1"/>
+	<skill id="3002" name="int_2"/>
+	<skill id="3003" name="str_2"/>
+	<skill id="3004" name="maxmp_5"/>
+	<skill id="3005" name="Bleed"/>
+	<skill id="3006" name="Equip Set Items"/>
+	<skill id="3007" name="Special Ability: Guidance"/>
+	<skill id="3008" name="Special Ability: Guidance"/>
+	<skill id="3009" name="Special Ability: Evasion"/>
+	<skill id="3010" name="Special Ability: Focus"/>
+	<skill id="3011" name="Special Ability: Focus"/>
+	<skill id="3012" name="Special Ability: Anger"/>
+	<skill id="3013" name="Special Ability: Health"/>
+	<skill id="3014" name="Special Ability: Mana Up"/>
+	<skill id="3016" name="Special Ability: Critical Stun"/>
+	<skill id="3018" name="Special Ability: Back Blow"/>
+	<skill id="3019" name="Special Ability: Back Blow"/>
+	<skill id="3020" name="Special Ability: Critical Bleed"/>
+	<skill id="3021" name="Special Ability: Critical Bleed"/>
+	<skill id="3022" name="Special Ability: Critical Drain"/>
+	<skill id="3023" name="Special Ability: Critical Damage"/>
+	<skill id="3024" name="Special Ability: Critical Poison"/>
+	<skill id="3025" name="Special Ability: Critical Anger"/>
+	<skill id="3026" name="Special Ability: Critical Anger"/>
+	<skill id="3027" name="Special Ability: Rsk. Focus"/>
+	<skill id="3028" name="Special Ability: Rsk. Evasion"/>
+	<skill id="3029" name="Special Ability: Rsk. Evasion"/>
+	<skill id="3030" name="Special Ability: Rsk. Evasion"/>
+	<skill id="3031" name="Special Ability: Rsk. Evasion"/>
+	<skill id="3032" name="Special Ability: Rsk. Haste"/>
+	<skill id="3033" name="Special Ability: Rsk. Haste"/>
+	<skill id="3034" name="Special Ability: Rsk. Haste"/>
+	<skill id="3035" name="Special Ability: Mighty Mortal"/>
+	<skill id="3036" name="Special Ability: Haste"/>
+	<skill id="3037" name="Special Ability: Haste"/>
+	<skill id="3038" name="Special Ability: Haste"/>
+	<skill id="3039" name="Special Ability: Critical Drain"/>
+	<skill id="3040" name="Special Ability: Critical Poison"/>
+	<skill id="3041" name="Special Ability: Critical Poison"/>
+	<skill id="3042" name="Special Ability: Critical Damage"/>
+	<skill id="3043" name="Special Ability: Critical Damage"/>
+	<skill id="3044" name="Special Ability: Focus"/>
+	<skill id="3045" name="Special Ability: Haste"/>
+	<skill id="3046" name="Special Ability: Guidance"/>
+	<skill id="3047" name="Special Ability: Acumen"/>
+	<skill id="3048" name="Special Ability: Conversion"/>
+	<skill id="3049" name="Special Ability: Increase Critical"/>
+	<skill id="3050" name="Special Ability: Focus"/>
+	<skill id="3051" name="Special Ability: Focus"/>
+	<skill id="3052" name="Special Ability: Critical Bleed"/>
+	<skill id="3053" name="Special Ability: Critical Bleed"/>
+	<skill id="3054" name="Special Ability: Critical Bleed"/>
+	<skill id="3055" name="Special Ability: Critical Bleed"/>
+	<skill id="3056" name="Special Ability: Rsk. Haste"/>
+	<skill id="3057" name="Special Ability: Anger"/>
+	<skill id="3058" name="Special Ability: Anger"/>
+	<skill id="3059" name="Special Ability: Critical Drain"/>
+	<skill id="3060" name="Special Ability: Critical Drain"/>
+	<skill id="3061" name="Special Ability: Critical Poison"/>
+	<skill id="3062" name="Special Ability: Critical Poison"/>
+	<skill id="3063" name="Special Ability: Back Blow"/>
+	<skill id="3064" name="Special Ability: Guidance"/>
+	<skill id="3065" name="Special Ability: Guidance"/>
+	<skill id="3066" name="Special Ability: Critical Damage"/>
+	<skill id="3067" name="Special Ability: Critical Damage"/>
+	<skill id="3068" name="Special Ability: Haste"/>
+	<skill id="3069" name="Special Ability: Risky Evasion"/>
+	<skill id="3070" name="Special Ability: Critical Stun"/>
+	<skill id="3071" name="Special Ability: Rsk. Focus"/>
+	<skill id="3072" name="Special Ability: Empower"/>
+	<skill id="3073" name="Special Ability: Magic Power"/>
+	<skill id="3074" name="Special Ability: Magic Silence"/>
+	<skill id="3075" name="Special Ability: Magic Paralyze"/>
+	<skill id="3076" name="Special Ability: Empower"/>
+	<skill id="3077" name="Special Ability: Magic Power"/>
+	<skill id="3078" name="Special Ability: Magic Silence"/>
+	<skill id="3079" name="Special Ability: Magic Paralyze"/>
+	<skill id="3080" name="Item Skill: Aggression"/>
+	<skill id="3081" name="Item Skill: Charm"/>
+	<skill id="3082" name="Item Skill: Mana Burn"/>
+	<skill id="3083" name="Item Skill: Slow"/>
+	<skill id="3084" name="Item Skill: Winter"/>
+	<skill id="3085" name="Item Skill: Stun"/>
+	<skill id="3086" name="Item Skill: Hold"/>
+	<skill id="3087" name="Item Skill: Sleep"/>
+	<skill id="3088" name="Item Skill: Paralyze"/>
+	<skill id="3089" name="Item Skill: Medusa"/>
+	<skill id="3090" name="Item Skill: Fear"/>
+	<skill id="3091" name="Item Skill: Poison"/>
+	<skill id="3092" name="Item Skill: Bleed"/>
+	<skill id="3093" name="Item Skill: Silence"/>
+	<skill id="3094" name="Item Skill: Doom"/>
+	<skill id="3095" name="Item Skill: Mana Burn"/>
+	<skill id="3096" name="Item Skill: Slow"/>
+	<skill id="3097" name="Item Skill: Winter"/>
+	<skill id="3098" name="Item Skill: Stun"/>
+	<skill id="3099" name="Item Skill: Hold"/>
+	<skill id="3100" name="Item Skill: Sleep"/>
+	<skill id="3101" name="Item Skill: Paralyze"/>
+	<skill id="3102" name="Item Skill: Medusa"/>
+	<skill id="3103" name="Item Skill: Fear"/>
+	<skill id="3104" name="Item Skill: Poison"/>
+	<skill id="3105" name="Item Skill: Bleed"/>
+	<skill id="3106" name="Item Skill: Silence"/>
+	<skill id="3107" name="Item Skill: Doom"/>
+	<skill id="3108" name="Item Skill: Aggression Up"/>
+	<skill id="3109" name="Item Skill: Aggression Down"/>
+	<skill id="3110" name="Item Skill: Mana Burn"/>
+	<skill id="3111" name="Item Skill: Slow"/>
+	<skill id="3112" name="Item Skill: Winter"/>
+	<skill id="3113" name="Item Skill: Stun"/>
+	<skill id="3114" name="Item Skill: Hold"/>
+	<skill id="3115" name="Item Skill: Sleep"/>
+	<skill id="3116" name="Item Skill: Paralyze"/>
+	<skill id="3117" name="Item Skill: Medusa"/>
+	<skill id="3118" name="Item Skill: Fear"/>
+	<skill id="3119" name="Item Skill: Poison"/>
+	<skill id="3120" name="Item Skill: Bleed"/>
+	<skill id="3121" name="Item Skill: Silence"/>
+	<skill id="3122" name="Item Skill: Doom"/>
+	<skill id="3123" name="Item Skill: Heal"/>
+	<skill id="3124" name="Item Skill: Blessed Body"/>
+	<skill id="3125" name="Item Skill: Battle Roar"/>
+	<skill id="3126" name="Item Skill: Prayer"/>
+	<skill id="3127" name="Item Skill: Recharge"/>
+	<skill id="3128" name="Item Skill: Blessed Soul"/>
+	<skill id="3129" name="Item Skill: Mana Gain"/>
+	<skill id="3130" name="Item Skill: Ritual"/>
+	<skill id="3131" name="Item Skill: Cheer"/>
+	<skill id="3132" name="Item Skill: Might"/>
+	<skill id="3133" name="Item Skill: Empower"/>
+	<skill id="3134" name="Item Skill: Duel Might"/>
+	<skill id="3135" name="Item Skill: Shield"/>
+	<skill id="3136" name="Item Skill: Magic Barrier"/>
+	<skill id="3137" name="Item Skill: Duel Weakness"/>
+	<skill id="3138" name="Item Skill: Heal Empower"/>
+	<skill id="3139" name="Item Skill: Agility"/>
+	<skill id="3140" name="Item Skill: Guidance"/>
+	<skill id="3141" name="Item Skill: Focus"/>
+	<skill id="3142" name="Item Skill: Wild Magic"/>
+	<skill id="3143" name="Item Skill: Kiss of Eva"/>
+	<skill id="3144" name="Item Skill: Acrobatics"/>
+	<skill id="3145" name="Item Skill: Iron Body"/>
+	<skill id="3146" name="Item Skill: Recall"/>
+	<skill id="3147" name="Item Skill: Recall"/>
+	<skill id="3148" name="Item Skill: Vampiric Rage"/>
+	<skill id="3149" name="Item Skill: Aggression"/>
+	<skill id="3150" name="Item Skill: Charm"/>
+	<skill id="3151" name="Item Skill: Peace"/>
+	<skill id="3152" name="Item Skill: Trick"/>
+	<skill id="3153" name="Item Skill: Vampiric Touch"/>
+	<skill id="3154" name="Item Skill: Mana Burn"/>
+	<skill id="3155" name="Item Skill: Unlock"/>
+	<skill id="3156" name="Item Skill: Firework"/>
+	<skill id="3157" name="Item Skill: Large Firework"/>
+	<skill id="3158" name="Item Skill: Lesser Celestial Shield"/>
+	<skill id="3159" name="Item Skill: Stealth"/>
+	<skill id="3160" name="Item Skill: Resurrection"/>
+	<skill id="3161" name="Item Skill: Skill Clarity"/>
+	<skill id="3162" name="Item Skill: Spell Clarity"/>
+	<skill id="3163" name="Item Skill: Music Clarity"/>
+	<skill id="3164" name="Item Skill: Clarity"/>
+	<skill id="3165" name="Item Skill: Prominence"/>
+	<skill id="3167" name="Item Skill: Hydro Blast"/>
+	<skill id="3168" name="Item Skill: Hurricane"/>
+	<skill id="3169" name="Item Skill: Stone"/>
+	<skill id="3170" name="Item Skill: Solar Flare"/>
+	<skill id="3171" name="Item Skill: Shadow Flare"/>
+	<skill id="3172" name="Item Skill: Aura Flare"/>
+	<skill id="3173" name="Item Skill: Prominence"/>
+	<skill id="3174" name="Item Skill: Hydro Blast"/>
+	<skill id="3175" name="Item Skill: Hurricane"/>
+	<skill id="3176" name="Item Skill: Stone"/>
+	<skill id="3177" name="Item Skill: Solar Flare"/>
+	<skill id="3178" name="Item Skill: Shadow Flare"/>
+	<skill id="3179" name="Item Skill: Aura Flare"/>
+	<skill id="3180" name="Item Skill: Prominence"/>
+	<skill id="3181" name="Item Skill: Hydro Blast"/>
+	<skill id="3182" name="Item Skill: Hurricane"/>
+	<skill id="3183" name="Item Skill: Stone"/>
+	<skill id="3184" name="Item Skill: Solar Flare"/>
+	<skill id="3185" name="Item Skill: Shadow Flare"/>
+	<skill id="3186" name="Item Skill: Aura Flare"/>
+	<skill id="3187" name="Item Skill: Slow"/>
+	<skill id="3188" name="Item Skill: Winter"/>
+	<skill id="3189" name="Item Skill: Stun"/>
+	<skill id="3190" name="Item Skill: Hold"/>
+	<skill id="3191" name="Item Skill: Sleep"/>
+	<skill id="3192" name="Item Skill: Paralyze"/>
+	<skill id="3193" name="Item Skill: Medusa"/>
+	<skill id="3194" name="Item Skill: Fear"/>
+	<skill id="3195" name="Item Skill: Poison"/>
+	<skill id="3196" name="Item Skill: Bleed"/>
+	<skill id="3197" name="Item Skill: Silence"/>
+	<skill id="3198" name="Item Skill: Doom"/>
+	<skill id="3199" name="Item Skill: Skill Refresh"/>
+	<skill id="3200" name="Item Skill: Spell Refresh"/>
+	<skill id="3201" name="Item Skill: Music Refresh"/>
+	<skill id="3202" name="Item Skill: Refresh"/>
+	<skill id="3203" name="Item Skill: Mystery Skill"/>
+	<skill id="3204" name="Item Skill: Reflect Damage"/>
+	<skill id="3205" name="Item Skill: Party Recall"/>
+	<skill id="3206" name="Item Skill: Music"/>
+	<skill id="3207" name="Item Skill: Heal"/>
+	<skill id="3208" name="Item Skill: Blessed Body"/>
+	<skill id="3209" name="Item Skill: Prayer"/>
+	<skill id="3210" name="Item Skill: Recharge"/>
+	<skill id="3211" name="Item Skill: Blessed Soul"/>
+	<skill id="3212" name="Item Skill: Mana Gain"/>
+	<skill id="3213" name="Item Skill: Ritual"/>
+	<skill id="3214" name="Item Skill: Cheer"/>
+	<skill id="3215" name="Item Skill: Might"/>
+	<skill id="3216" name="Item Skill: Empower"/>
+	<skill id="3217" name="Item Skill: Duel Might"/>
+	<skill id="3218" name="Item Skill: Shield"/>
+	<skill id="3219" name="Item Skill: Magic Barrier"/>
+	<skill id="3220" name="Item Skill: Duel Weakness"/>
+	<skill id="3221" name="Item Skill: Agility"/>
+	<skill id="3222" name="Item Skill: Guidance"/>
+	<skill id="3223" name="Item Skill: Focus"/>
+	<skill id="3224" name="Item Skill: Wild Magic"/>
+	<skill id="3225" name="Item Skill: Charm"/>
+	<skill id="3226" name="Item Skill: Slow"/>
+	<skill id="3227" name="Item Skill: Winter"/>
+	<skill id="3228" name="Item Skill: Stun"/>
+	<skill id="3229" name="Item Skill: Hold"/>
+	<skill id="3230" name="Item Skill: Sleep"/>
+	<skill id="3231" name="Item Skill: Paralyze"/>
+	<skill id="3232" name="Item Skill: Medusa"/>
+	<skill id="3233" name="Item Skill: Fear"/>
+	<skill id="3234" name="Item Skill: Poison"/>
+	<skill id="3235" name="Item Skill: Bleed"/>
+	<skill id="3236" name="Item Skill: Silence"/>
+	<skill id="3237" name="Item Skill: Doom"/>
+	<skill id="3238" name="Item Skill: Prayer"/>
+	<skill id="3239" name="Item Skill: Mana Gain"/>
+	<skill id="3240" name="Item Skill: Might"/>
+	<skill id="3241" name="Item Skill: Empower"/>
+	<skill id="3243" name="Item Skill: Duel Might"/>
+	<skill id="3244" name="Item Skill: Shield"/>
+	<skill id="3245" name="Item Skill: Magic Barrier"/>
+	<skill id="3246" name="Item Skill: Heal Empower"/>
+	<skill id="3247" name="Item Skill: Agility"/>
+	<skill id="3248" name="Item Skill: Guidance"/>
+	<skill id="3249" name="Item Skill: Focus"/>
+	<skill id="3250" name="Item Skill: Wild Magic"/>
+	<skill id="3251" name="Item Skill: Weight Limit"/>
+	<skill id="3252" name="Item Skill: Kiss of Eva"/>
+	<skill id="3253" name="Item Skill: Acrobatics"/>
+	<skill id="3254" name="Item Skill: Iron Body"/>
+	<skill id="3255" name="Item Skill: Skill Clarity"/>
+	<skill id="3256" name="Item Skill: Spell Clarity"/>
+	<skill id="3257" name="Item Skill: Music Clarity"/>
+	<skill id="3258" name="Item Skill: Clarity"/>
+	<skill id="3259" name="Item Skill: Reflect Damage"/>
+	<skill id="3260" name="Forgiveness"/>
+	<skill id="3261" name="Forgiveness"/>
+	<skill id="3262" name="Pardon"/>
+	<skill id="3263" name="Blessed Resurrection"/>
+	<skill id="3264" name="Blessed Escape"/>
+	<skill id="3265" name="Mysterious Ability"/>
+	<skill id="3266" name="Large Fireworks Ability"/>
+	<skill id="3500" name="Wooden Set"/>
+	<skill id="3501" name="Devotion Set"/>
+	<skill id="3502" name="Mithril Heavy Armor Set"/>
+	<skill id="3503" name="Reinforced Leather Set"/>
+	<skill id="3504" name="Knowledge Set"/>
+	<skill id="3505" name="Manticore Set"/>
+	<skill id="3506" name="Brigandine Set"/>
+	<skill id="3507" name="Elven Mithril Set"/>
+	<skill id="3508" name="Mithril Light Armor Set"/>
+	<skill id="3509" name="Chain Mail Set"/>
+	<skill id="3510" name="Karmian Set"/>
+	<skill id="3511" name="Plated Leather Set"/>
+	<skill id="3512" name="Composite Heavy Armor Set"/>
+	<skill id="3513" name="Demon's Set"/>
+	<skill id="3514" name="Theca Leather Light Armor Set"/>
+	<skill id="3515" name="Drake Leather Set"/>
+	<skill id="3516" name="Full Plate Set"/>
+	<skill id="3517" name="Divine Set"/>
+	<skill id="3518" name="Zubei's Heavy Armor Set"/>
+	<skill id="3519" name="Avadon Breastplate Heavy Armor Set"/>
+	<skill id="3520" name="Zubei's Leather Shirt Light Armor Set"/>
+	<skill id="3521" name="Avadon Light Armor Set"/>
+	<skill id="3522" name="Tunic of Zubei Robe Set"/>
+	<skill id="3523" name="Avadon Robe Set"/>
+	<skill id="3524" name="Blue Wolf Heavy Armor Set"/>
+	<skill id="3525" name="Doom Heavy Armor Set"/>
+	<skill id="3526" name="Blue Wolf Light Armor Set"/>
+	<skill id="3527" name="Doom Light Armor Set"/>
+	<skill id="3528" name="Blue Wolf Robe Set"/>
+	<skill id="3529" name="Doom Robe Set"/>
+	<skill id="3530" name="Dark Crystal Breastplate Heavy Armor Set"/>
+	<skill id="3531" name="Tallum Heavy Armor Set"/>
+	<skill id="3532" name="Dark Crystal Light Armor Set"/>
+	<skill id="3533" name="Tallum Light Armor Set"/>
+	<skill id="3534" name="Tallum Robe Set"/>
+	<skill id="3535" name="Dark Crystal Robe Set"/>
+	<skill id="3536" name="Nightmare Heavy Armor Set"/>
+	<skill id="3537" name="Majestic Heavy Armor Set"/>
+	<skill id="3538" name="Nightmarish Leather Light Armor Set"/>
+	<skill id="3539" name="Majestic Light Armor Set"/>
+	<skill id="3540" name="Nightmare Robe Set"/>
+	<skill id="3541" name="Majestic Robe Set"/>
+	<skill id="3542" name="Special Ability: Critical Damage"/>
+	<skill id="3543" name="Equipped with Shield"/>
+	<skill id="3544" name="Equipped with Shield"/>
+	<skill id="3545" name="Equipped with Shield"/>
+	<skill id="3546" name="Equipped with Shield"/>
+	<skill id="3547" name="Equipped with Shield"/>
+	<skill id="3548" name="Equipped with Shield"/>
+	<skill id="3549" name="Equipped with Shield"/>
+	<skill id="3550" name="Equipped with Shield"/>
+	<skill id="3551" name="Equipped with Shield"/>
+	<skill id="3552" name="Special Ability: PvP Damage"/>
+	<skill id="3553" name="Imperial Crusader Heavy Armor Set"/>
+	<skill id="3554" name="Equipped with Shield"/>
+	<skill id="3555" name="Draconic Light Armor Set"/>
+	<skill id="3556" name="Major Arcana Robe Set"/>
+	<skill id="3557" name="Necklace of Valakas"/>
+	<skill id="3558" name="Earring of Antharas"/>
+	<skill id="3559" name="Earring of Zaken"/>
+	<skill id="3560" name="Earring of Orfen"/>
+	<skill id="3561" name="Ring of Baium"/>
+	<skill id="3562" name="Ring of Ant Queen"/>
+	<skill id="3563" name="Ring of Core"/>
+	<skill id="3564" name="Special Ability: Haste"/>
+	<skill id="3565" name="Special Ability: Focus"/>
+	<skill id="3566" name="Special Ability: Focus"/>
+	<skill id="3567" name="Special Ability: Focus"/>
+	<skill id="3568" name="Special Ability: HP Drain"/>
+	<skill id="3569" name="Special Ability: HP Regeneration"/>
+	<skill id="3570" name="Special Ability: Robust Health"/>
+	<skill id="3571" name="Special Ability: Crt. Stun"/>
+	<skill id="3572" name="Special Ability: Crt. Damage"/>
+	<skill id="3573" name="Special Ability: Guidance"/>
+	<skill id="3574" name="Special Ability: Crt. Slow"/>
+	<skill id="3575" name="Special Ability: Empower Option"/>
+	<skill id="3576" name="Special Ability: MP Regeneration"/>
+	<skill id="3577" name="Special Ability: Magic Hold"/>
+	<skill id="3578" name="Special Ability: Infinity Blade"/>
+	<skill id="3579" name="Decrease P. Def."/>
+	<skill id="3580" name="Special Ability: Infinity Axe"/>
+	<skill id="3581" name="Discord"/>
+	<skill id="3582" name="Special Ability: Infinity Cleaver"/>
+	<skill id="3583" name="Special Ability: Infinity Crusher"/>
+	<skill id="3584" name="Shock"/>
+	<skill id="3585" name="Special Ability: Infinity Wing"/>
+	<skill id="3586" name="Physical Skill Restraint"/>
+	<skill id="3587" name="Special Ability: Infinity Fang"/>
+	<skill id="3588" name="Shock"/>
+	<skill id="3589" name="Special Ability: Infinity Stinger"/>
+	<skill id="3590" name="Silence"/>
+	<skill id="3591" name="Special Ability: Infinity Spear"/>
+	<skill id="3592" name="Dispell"/>
+	<skill id="3593" name="Special Ability: Infinity Bow"/>
+	<skill id="3594" name="Slow"/>
+	<skill id="3595" name="Special Ability: Infinity Scepter"/>
+	<skill id="3596" name="Full Recover"/>
+	<skill id="3597" name="Special Ability: Infinity Rod"/>
+	<skill id="3598" name="Full Recover"/>
+	<skill id="3599" name="Polearm Multi-attack"/>
+	<skill id="3600" name="Special Ability: Anger"/>
+	<skill id="3601" name="Special Ability: Haste"/>
+	<skill id="3602" name="Special Ability: Guidance"/>
+	<skill id="3603" name="Demonic Sword Zariche"/>
+	<skill id="3604" name="Frintezza's Necklace"/>
+	<skill id="3605" name="Clan Oath Heavy Armor Set"/>
+	<skill id="3606" name="Clan Oath Light Armor Set"/>
+	<skill id="3607" name="Clan Oath Robe Set"/>
+	<skill id="3608" name="Apella Heavy Armor Set"/>
+	<skill id="3609" name="Apella Light Armor Set"/>
+	<skill id="3610" name="Apella Robe Set"/>
+	<skill id="3611" name="Enchant Heavy Armor (Grade D)"/>
+	<skill id="3612" name="Enchant Light Armor (Grade D)"/>
+	<skill id="3613" name="Enchant Robe (Grade D)"/>
+	<skill id="3614" name="Enchant Heavy Armor (Grade C)"/>
+	<skill id="3615" name="Enchant Light Armor (Grade C)"/>
+	<skill id="3616" name="Enchant Robe (Grade C)"/>
+	<skill id="3617" name="Enchant Heavy Armor (Grade B)"/>
+	<skill id="3618" name="Enchant Light Armor (Grade B)"/>
+	<skill id="3619" name="Enchant Robe (Grade B)"/>
+	<skill id="3620" name="Enchant Heavy Armor (Grade A)"/>
+	<skill id="3621" name="Enchant Light Armor (Grade A)"/>
+	<skill id="3622" name="Enchant Robe (Grade A)"/>
+	<skill id="3623" name="Enchant Heavy Armor (Grade S)"/>
+	<skill id="3624" name="Enchant Light Armor (Grade S)"/>
+	<skill id="3625" name="Enchant Robe (Grade S)"/>
+	<skill id="3626" name="Kabokula"/>
+	<skill id="3627" name="Tapirawa"/>
+	<skill id="3628" name="Shabonoba"/>
+	<skill id="3629" name="Blood Sword Akamanah"/>
+	<skill id="3630" name="Void Burst"/>
+	<skill id="3631" name="Void Flow"/>
+	<skill id="3632" name="Clan Gate"/>
+	<skill id="3633" name="Residential Shock Immunity"/>
+	<skill id="4001" name="NPC Wind Strike"/>
+	<skill id="4002" name="NPC HP Drain"/>
+	<skill id="4003" name="Golem Body"/>
+	<skill id="4004" name="Fragile Skull"/>
+	<skill id="4005" name="Floating Target"/>
+	<skill id="4006" name="Blazing Log"/>
+	<skill id="4007" name="Immortal Life"/>
+	<skill id="4008" name="Insect Skin"/>
+	<skill id="4009" name="Resist Fire"/>
+	<skill id="4010" name="Resist Water"/>
+	<skill id="4011" name="Resist Wind"/>
+	<skill id="4012" name="Resist Earth"/>
+	<skill id="4013" name="Resistance To Fire, Vulnerable To Water"/>
+	<skill id="4014" name="Resistance To Water, Vulnerable To Fire"/>
+	<skill id="4015" name="Resistance To Wind, Vulnerable To Earth"/>
+	<skill id="4016" name="Resistance To Earth, Vulnerable To Wind"/>
+	<skill id="4017" name="Queen Ant Brandish"/>
+	<skill id="4018" name="Decrease Speed"/>
+	<skill id="4019" name="Decrease Speed"/>
+	<skill id="4020" name="Heal Queen Ant1"/>
+	<skill id="4021" name="Queen Ant"/>
+	<skill id="4022" name="Body Of Nurse Ant"/>
+	<skill id="4023" name="Body Of Royal Guard Ant"/>
+	<skill id="4024" name="Heal Queen Ant2"/>
+	<skill id="4025" name="Master Recharge"/>
+	<skill id="4026" name="Gludio Flame"/>
+	<skill id="4027" name="Gludio Heal"/>
+	<skill id="4028" name="NPC Might"/>
+	<skill id="4029" name="NPC Shield"/>
+	<skill id="4030" name="NPC Clan Might"/>
+	<skill id="4031" name="NPC Clan Aegis"/>
+	<skill id="4032" name="NPC Strike"/>
+	<skill id="4033" name="NPC Burn"/>
+	<skill id="4034" name="Decrease Speed"/>
+	<skill id="4035" name="Poison"/>
+	<skill id="4036" name="Poison"/>
+	<skill id="4037" name="Decrease P.Atk"/>
+	<skill id="4038" name="Decrease Atk.Spd."/>
+	<skill id="4039" name="NPC MP Drain"/>
+	<skill id="4040" name="NPC Bow Attack"/>
+	<skill id="4041" name="Cruma Blaze"/>
+	<skill id="4042" name="Nurka Blaze"/>
+	<skill id="4043" name="Partisan Flame"/>
+	<skill id="4044" name="Partisan Heal"/>
+	<skill id="4045" name="Resist Full Magic Attack"/>
+	<skill id="4046" name="Sleep"/>
+	<skill id="4047" name="Hold"/>
+	<skill id="4048" name="NPC Dash"/>
+	<skill id="4049" name="Cubic Drain"/>
+	<skill id="4050" name="Cubic DD"/>
+	<skill id="4051" name="Cubic Heal"/>
+	<skill id="4052" name="Poison"/>
+	<skill id="4053" name="Decrease P.Atk"/>
+	<skill id="4054" name="Decrease P. Def"/>
+	<skill id="4055" name="Decrease Atk.Speed"/>
+	<skill id="4056" name="Immortal Attack"/>
+	<skill id="4057" name="Insect Weak Point"/>
+	<skill id="4058" name="Plant Weak Point"/>
+	<skill id="4059" name="Animal Weak Point"/>
+	<skill id="4060" name="Beast Weak Point"/>
+	<skill id="4061" name="Dragon Weak Point"/>
+	<skill id="4062" name="Orfen"/>
+	<skill id="4063" name="Paralysis"/>
+	<skill id="4064" name="Paralysis"/>
+	<skill id="4065" name="NPC Heal"/>
+	<skill id="4066" name="NPC Twister"/>
+	<skill id="4067" name="NPC Mortal Blow"/>
+	<skill id="4068" name="Mechanical Cannon"/>
+	<skill id="4069" name="NPC Curve Beam Cannon"/>
+	<skill id="4070" name="Decrease Atk. Spd."/>
+	<skill id="4071" name="Resist Archery"/>
+	<skill id="4072" name="Shock"/>
+	<skill id="4073" name="Shock"/>
+	<skill id="4074" name="NPC Haste"/>
+	<skill id="4075" name="Shock"/>
+	<skill id="4076" name="Decrease Speed"/>
+	<skill id="4077" name="NPC Aura Burn"/>
+	<skill id="4078" name="NPC Flamestrike"/>
+	<skill id="4079" name="Siege Hammer"/>
+	<skill id="4080" name="Dark Heal"/>
+	<skill id="4081" name="Pretending to steal"/>
+	<skill id="4082" name="Poison of Death"/>
+	<skill id="4083" name="Die! You fool!"/>
+	<skill id="4084" name="Resist Physical Attack"/>
+	<skill id="4085" name="Critical Power"/>
+	<skill id="4086" name="Critical Chance"/>
+	<skill id="4087" name="NPC Blaze"/>
+	<skill id="4088" name="Bleed"/>
+	<skill id="4089" name="NPC Bear Spirit Totem"/>
+	<skill id="4090" name="NPC Wolf Spirit Totem"/>
+	<skill id="4091" name="NPC Ogre Spirit Totem"/>
+	<skill id="4092" name="NPC Puma Spirit Totem"/>
+	<skill id="4093" name="Evasion"/>
+	<skill id="4094" name="NPC Cancel Magic"/>
+	<skill id="4095" name="Damage Shield"/>
+	<skill id="4096" name="NPC Hawkeye"/>
+	<skill id="4097" name="NPC Chant of Life"/>
+	<skill id="4098" name="Magic Skill Block"/>
+	<skill id="4099" name="NPC Berserk"/>
+	<skill id="4100" name="NPC Prominence"/>
+	<skill id="4101" name="NPC Spinning Slash"/>
+	<skill id="4102" name="Surrender To Fire"/>
+	<skill id="4103" name="NPC Ultimate Evasion"/>
+	<skill id="4104" name="Flame"/>
+	<skill id="4105" name="NPC Straight Beam Cannon"/>
+	<skill id="4106" name="Antharas Shock"/>
+	<skill id="4107" name="Antharas Shock"/>
+	<skill id="4108" name="Antharas Terror"/>
+	<skill id="4109" name="Curse of Antharas"/>
+	<skill id="4110" name="Breath Attack"/>
+	<skill id="4111" name="Antharas Fossilization"/>
+	<skill id="4112" name="Ordinary Attack"/>
+	<skill id="4113" name="Animal doing ordinary attack"/>
+	<skill id="4114" name="Aden Flame"/>
+	<skill id="4115" name="Aden Heal"/>
+	<skill id="4116" name="Resist M.Atk"/>
+	<skill id="4117" name="Paralysis"/>
+	<skill id="4118" name="Paralysis"/>
+	<skill id="4119" name="Decrease Accuracy"/>
+	<skill id="4120" name="Shock"/>
+	<skill id="4121" name="Summoned Monster Magic Protection"/>
+	<skill id="4122" name="Antharas"/>
+	<skill id="4123" name="Hostile Feeling"/>
+	<skill id="4124" name="NPC Spear Attack"/>
+	<skill id="4125" name="Antharas Regeneration"/>
+	<skill id="4126" name="Reduction in recovery time"/>
+	<skill id="4127" name="Baium: General Attack"/>
+	<skill id="4128" name="Wind Of Force"/>
+	<skill id="4129" name="Earthquake"/>
+	<skill id="4130" name="Striking of Thunderbolt"/>
+	<skill id="4131" name="Stun"/>
+	<skill id="4132" name="Spear: Pound the Ground"/>
+	<skill id="4133" name="Angel Heal"/>
+	<skill id="4134" name="Seal Skill"/>
+	<skill id="4135" name="Baium Heal"/>
+	<skill id="4136" name="Baium's Gift"/>
+	<skill id="4137" name="Hydro Screw"/>
+	<skill id="4138" name="NPC AE - Corpse Burst"/>
+	<skill id="4139" name="Boom Attack"/>
+	<skill id="4140" name="Contract Payment"/>
+	<skill id="4141" name="NPC Wind Fist"/>
+	<skill id="4142" name="NPC Fast Wind Fist"/>
+	<skill id="4143" name="Treasure Bomb"/>
+	<skill id="4144" name="Mimic Strong Attack"/>
+	<skill id="4145" name="Decrease P. Atk."/>
+	<skill id="4146" name="Decrease P.Def"/>
+	<skill id="4147" name="Area Dispel"/>
+	<skill id="4148" name="Poison"/>
+	<skill id="4149" name="Bleed"/>
+	<skill id="4150" name="Flame"/>
+	<skill id="4151" name="NPC Windstrike - Magic"/>
+	<skill id="4152" name="NPC HP Drain - Magic"/>
+	<skill id="4153" name="Decrease Speed"/>
+	<skill id="4154" name="NPC MP Drain - Magic"/>
+	<skill id="4155" name="NPC Twister - Magic"/>
+	<skill id="4156" name="NPC Curve Beam Cannon - Magic"/>
+	<skill id="4157" name="NPC Blaze - Magic"/>
+	<skill id="4158" name="NPC Prominence - Magic"/>
+	<skill id="4159" name="NPC Straight Beam Cannon - Magic"/>
+	<skill id="4160" name="NPC Aura Burn - Magic"/>
+	<skill id="4161" name="Summon PC"/>
+	<skill id="4162" name="Decrease P. Atk."/>
+	<skill id="4163" name="NPC Self Damage Shield"/>
+	<skill id="4164" name="Paralysis"/>
+	<skill id="4165" name="Icy Air"/>
+	<skill id="4166" name="Shock"/>
+	<skill id="4167" name="Curse of Fairy Mymyu"/>
+	<skill id="4168" name="BOSS Power Strike"/>
+	<skill id="4169" name="Stun"/>
+	<skill id="4170" name="BOSS Mortal Blow"/>
+	<skill id="4171" name="BOSS Spinning Slash"/>
+	<skill id="4172" name="Stun"/>
+	<skill id="4173" name="BOSS Might"/>
+	<skill id="4174" name="BOSS Shield"/>
+	<skill id="4175" name="BOSS Haste"/>
+	<skill id="4176" name="BOSS Reflect Damage"/>
+	<skill id="4177" name="BOSS Cancel Magic"/>
+	<skill id="4178" name="BOSS Flame Strike"/>
+	<skill id="4179" name="BOSS Power Strike"/>
+	<skill id="4180" name="Stun"/>
+	<skill id="4181" name="BOSS Mortal Blow"/>
+	<skill id="4182" name="Poison"/>
+	<skill id="4183" name="Decrease P. Atk."/>
+	<skill id="4184" name="Decrease Atk. Spd."/>
+	<skill id="4185" name="Sleep"/>
+	<skill id="4186" name="Hold"/>
+	<skill id="4187" name="Decrease Speed"/>
+	<skill id="4188" name="Bleed"/>
+	<skill id="4189" name="Paralysis"/>
+	<skill id="4190" name="Decrease MP"/>
+	<skill id="4191" name="BOSS Wind Strike"/>
+	<skill id="4192" name="BOSS HP Drain"/>
+	<skill id="4193" name="BOSS Life Drain"/>
+	<skill id="4194" name="BOSS Aura Burn"/>
+	<skill id="4195" name="BOSS Twister"/>
+	<skill id="4196" name="Decreases Speed"/>
+	<skill id="4197" name="Hold"/>
+	<skill id="4198" name="Poison"/>
+	<skill id="4199" name="Decrease P. Atk."/>
+	<skill id="4200" name="Decrease Atk. Spd."/>
+	<skill id="4201" name="Sleep"/>
+	<skill id="4202" name="Hold"/>
+	<skill id="4203" name="Decrease Speed"/>
+	<skill id="4204" name="Bleed"/>
+	<skill id="4205" name="Paralysis"/>
+	<skill id="4206" name="Decrease MP"/>
+	<skill id="4207" name="BOSS Power Shot"/>
+	<skill id="4208" name="Stun"/>
+	<skill id="4209" name="BOSS Heal"/>
+	<skill id="4210" name="Life Chant"/>
+	<skill id="4211" name="BOSS Might"/>
+	<skill id="4212" name="BOSS Shield"/>
+	<skill id="4213" name="BOSS Haste"/>
+	<skill id="4214" name="BOSS Reflect Damage"/>
+	<skill id="4215" name="Raid Curse"/>
+	<skill id="4216" name="Scatter Enemy"/>
+	<skill id="4217" name="None"/>
+	<skill id="4218" name="Absorb HP MP"/>
+	<skill id="4219" name="Hold"/>
+	<skill id="4220" name="Deadly Dual-Sword Weapon"/>
+	<skill id="4221" name="Deadly Dual-Sword Weapon: Range Attack"/>
+	<skill id="4222" name="Instant Move"/>
+	<skill id="4223" name="Face Chance: Night to Day"/>
+	<skill id="4224" name="Face Chance: Day to Night"/>
+	<skill id="4225" name="Resist Shock"/>
+	<skill id="4226" name="Ban Heal"/>
+	<skill id="4227" name="Zaken Regeneration"/>
+	<skill id="4228" name="Double Dagger Attack"/>
+	<skill id="4229" name="NPC Double Wind Fist"/>
+	<skill id="4230" name="Wild Cannon"/>
+	<skill id="4231" name="NPC Spit Attack"/>
+	<skill id="4232" name="NPC AE Strike"/>
+	<skill id="4233" name="Vampiric Attack"/>
+	<skill id="4234" name="BOSS Power Throw"/>
+	<skill id="4235" name="none"/>
+	<skill id="4236" name="Decrease Heal"/>
+	<skill id="4237" name="Decreases Speed"/>
+	<skill id="4238" name="Increase Re-use Time"/>
+	<skill id="4239" name="Antharas Regeneration"/>
+	<skill id="4240" name="Antharas Regeneration"/>
+	<skill id="4241" name="Antharas Regeneration"/>
+	<skill id="4242" name="Zaken Regeneration"/>
+	<skill id="4243" name="Venomous Poison"/>
+	<skill id="4244" name="NPC Wild Sweep"/>
+	<skill id="4245" name="Mimic of Wrath"/>
+	<skill id="4246" name="Strong in 'nan' activity magic DOT"/>
+	<skill id="4247" name="NPC Windstrike - Slow"/>
+	<skill id="4248" name="NPC HP Drain - Slow"/>
+	<skill id="4249" name="Decrease Speed"/>
+	<skill id="4250" name="NPC Twister - Slow"/>
+	<skill id="4251" name="NPC Curve Beam Cannon - Slow"/>
+	<skill id="4252" name="NPC Flame - Slow"/>
+	<skill id="4253" name="NPC Blaze - Slow"/>
+	<skill id="4254" name="NPC Prominence - Slow"/>
+	<skill id="4255" name="NPC Straight Beam Cannon - Slow"/>
+	<skill id="4256" name="100% Stun Resistance."/>
+	<skill id="4257" name="NPC Hydroblast - Magic"/>
+	<skill id="4258" name="Anti Strider Slow"/>
+	<skill id="4259" name="Toxic Smoke"/>
+	<skill id="4260" name="Steal Blood"/>
+	<skill id="4261" name="Mega Storm Strike"/>
+	<skill id="4262" name="Holiday Wind Walk"/>
+	<skill id="4263" name="Holiday Haste"/>
+	<skill id="4264" name="Holiday Empower"/>
+	<skill id="4265" name="Holiday Might"/>
+	<skill id="4266" name="Holiday Shield"/>
+	<skill id="4267" name="Grade Penalty"/>
+	<skill id="4268" name="Danger Area"/>
+	<skill id="4269" name="Block All Chat"/>
+	<skill id="4270" name="Weight Penalty"/>
+	<skill id="4271" name="Increase Force"/>
+	<skill id="4272" name="Greater Resist Archery Attack"/>
+	<skill id="4273" name="Resist Dagger"/>
+	<skill id="4274" name="Blunt Attack Weak Point"/>
+	<skill id="4275" name="Sacred Attack Weak Point"/>
+	<skill id="4276" name="Archery Attack Weak Point"/>
+	<skill id="4277" name="Resist Poison"/>
+	<skill id="4278" name="Dark Attack"/>
+	<skill id="4279" name="Fire Attack Weak Point"/>
+	<skill id="4280" name="Water Attack Weak Point"/>
+	<skill id="4281" name="Wind Attack Weak Point"/>
+	<skill id="4282" name="Earth Attack Weak Point"/>
+	<skill id="4283" name="Greater Resist Magic Attack"/>
+	<skill id="4284" name="Resist Bleeding"/>
+	<skill id="4285" name="Resist Sleep"/>
+	<skill id="4286" name="Greater Resist Sleep"/>
+	<skill id="4287" name="Resist Hold"/>
+	<skill id="4288" name="Greater Resist Hold"/>
+	<skill id="4289" name="Wyvern Breath"/>
+	<skill id="4290" name="Race"/>
+	<skill id="4291" name="Race"/>
+	<skill id="4292" name="Race"/>
+	<skill id="4293" name="Race"/>
+	<skill id="4294" name="Race"/>
+	<skill id="4295" name="Race"/>
+	<skill id="4296" name="Race"/>
+	<skill id="4297" name="Race"/>
+	<skill id="4298" name="Race"/>
+	<skill id="4299" name="Race"/>
+	<skill id="4300" name="Race"/>
+	<skill id="4301" name="Race"/>
+	<skill id="4302" name="Race"/>
+	<skill id="4303" name="Strong Type"/>
+	<skill id="4304" name="Strong Type"/>
+	<skill id="4305" name="Strong Type"/>
+	<skill id="4306" name="Strong Type"/>
+	<skill id="4307" name="Strong Type"/>
+	<skill id="4308" name="Strong Type"/>
+	<skill id="4309" name="Strong Type"/>
+	<skill id="4310" name="Strong Type"/>
+	<skill id="4311" name="Feeble Type"/>
+	<skill id="4312" name="Heavy Armor"/>
+	<skill id="4313" name="Light Armor"/>
+	<skill id="4314" name="BOSS Holy Light Burst"/>
+	<skill id="4315" name="Hold"/>
+	<skill id="4316" name="Boss Lilim Drain"/>
+	<skill id="4317" name="Increase Rage Might"/>
+	<skill id="4318" name="Ultimate Buff"/>
+	<skill id="4319" name="Paralysis"/>
+	<skill id="4320" name="Poison"/>
+	<skill id="4321" name="Decrease P. Def"/>
+	<skill id="4322" name="Wind Walk for Beginners"/>
+	<skill id="4323" name="Shield for Beginners"/>
+	<skill id="4324" name="Bless the Body for Beginners"/>
+	<skill id="4325" name="Vampiric Rage for Beginners"/>
+	<skill id="4326" name="Regeneration for Beginners"/>
+	<skill id="4327" name="Haste for Beginners"/>
+	<skill id="4328" name="Bless the Soul for Beginners"/>
+	<skill id="4329" name="Acumen for Beginners"/>
+	<skill id="4330" name="Concentration for Beginners"/>
+	<skill id="4331" name="Empower for Beginners"/>
+	<skill id="4332" name="Mental Aegis"/>
+	<skill id="4333" name="Resist Dark Attack"/>
+	<skill id="4334" name="SSQ Cancel"/>
+	<skill id="4335" name="Sacred Attack"/>
+	<skill id="4336" name="Dark Attack Weak Point"/>
+	<skill id="4337" name="Resist Sacred Attack"/>
+	<skill id="4338" name="Life Cubic for Beginners"/>
+	<skill id="4339" name="Mimir's Elixir"/>
+	<skill id="4340" name="Ultimate Buff, 2nd"/>
+	<skill id="4341" name="Ultimate Buff, 3rd"/>
+	<skill id="4342" name="Clan Hall: Wind Walk"/>
+	<skill id="4343" name="Clan Hall: Decrease Weight"/>
+	<skill id="4344" name="Clan Hall: Shield"/>
+	<skill id="4345" name="Clan Hall: Might"/>
+	<skill id="4346" name="Clan Hall: Mental Shield"/>
+	<skill id="4347" name="Clan Hall: Blessed Body"/>
+	<skill id="4348" name="Clan Hall: Blessed Soul"/>
+	<skill id="4349" name="Clan Hall: Magic Barrier"/>
+	<skill id="4350" name="Clan Hall: Resist Shock"/>
+	<skill id="4351" name="Clan Hall: Concentration"/>
+	<skill id="4352" name="Clan Hall: Berserker Spirit"/>
+	<skill id="4353" name="Clan Hall: Bless Shield"/>
+	<skill id="4354" name="Clan Hall: Vampiric Rage"/>
+	<skill id="4355" name="Clan Hall: Acumen"/>
+	<skill id="4356" name="Clan Hall: Empower"/>
+	<skill id="4357" name="Clan Hall: Haste"/>
+	<skill id="4358" name="Clan Hall: Guidance"/>
+	<skill id="4359" name="Clan Hall: Focus"/>
+	<skill id="4360" name="Clan Hall: Death Whisper"/>
+	<skill id="4361" name="Curse of Destruction"/>
+	<skill id="4362" name="Curse of Destruction"/>
+	<skill id="4363" name="Curse of Destruction"/>
+	<skill id="4364" name="Blessing of Prophecy"/>
+	<skill id="4365" name="Blessing of Prophecy"/>
+	<skill id="4366" name="Blessing of Prophecy"/>
+	<skill id="4367" name="Clan Hall Manager Buff"/>
+	<skill id="4368" name="Clan Hall Manager Buff"/>
+	<skill id="4369" name="Clan Hall Manager Buff"/>
+	<skill id="4370" name="Clan Hall Manager Buff"/>
+	<skill id="4371" name="Clan Hall Manager Buff"/>
+	<skill id="4372" name="Clan Hall Manager Buff"/>
+	<skill id="4373" name="Clan Hall Manager Buff"/>
+	<skill id="4374" name="Clan Hall Manager Buff"/>
+	<skill id="4375" name="Clan Hall Manager Buff"/>
+	<skill id="4376" name="Strong Resistance to P.Atk."/>
+	<skill id="4377" name="Wield Temper"/>
+	<skill id="4378" name="Self Damage Shield"/>
+	<skill id="4379" name="Resist Pole Arm"/>
+	<skill id="4380" name="Arena CP Recovery"/>
+	<skill id="4381" name="Magic Skill Block"/>
+	<skill id="4382" name="Curse of Lake Ghost"/>
+	<skill id="4383" name="NPC Hate Stone"/>
+	<skill id="4384" name="Scapegoat's Grace"/>
+	<skill id="4385" name="Scapegoat's Grace"/>
+	<skill id="4386" name="Scapegoat's Grace"/>
+	<skill id="4387" name="Scapegoat's Grace"/>
+	<skill id="4388" name="Resist Paralysis"/>
+	<skill id="4389" name="Resist Mental Derangement"/>
+	<skill id="4390" name="NPC Abnormal Immunity"/>
+	<skill id="4391" name="Wind Walk"/>
+	<skill id="4392" name="Shield"/>
+	<skill id="4393" name="Might"/>
+	<skill id="4394" name="Blessed Body"/>
+	<skill id="4395" name="Blessed Soul"/>
+	<skill id="4396" name="Magic Barrier"/>
+	<skill id="4397" name="Berserker Spirit"/>
+	<skill id="4398" name="Bless Shield"/>
+	<skill id="4399" name="Vampiric Rage"/>
+	<skill id="4400" name="Acumen"/>
+	<skill id="4401" name="Empower"/>
+	<skill id="4402" name="Haste"/>
+	<skill id="4403" name="Guidance"/>
+	<skill id="4404" name="Focus"/>
+	<skill id="4405" name="Death Whisper"/>
+	<skill id="4406" name="Agility"/>
+	<skill id="4407" name="Monster Type"/>
+	<skill id="4408" name="HP Modifiers"/>
+	<skill id="4409" name="MP Modifiers"/>
+	<skill id="4410" name="P. Atk. Modifiers"/>
+	<skill id="4411" name="M. Atk. Modifiers"/>
+	<skill id="4412" name="P. Def. Modifiers"/>
+	<skill id="4413" name="M. Def. Modifiers"/>
+	<skill id="4414" name="Armor Type"/>
+	<skill id="4415" name="Weapon Type"/>
+	<skill id="4416" name="Races"/>
+	<skill id="4417" name="Race Types"/>
+	<skill id="4418" name="Fire Attacks"/>
+	<skill id="4419" name="Water Attacks"/>
+	<skill id="4420" name="Wind Attacks"/>
+	<skill id="4421" name="Earth Attacks"/>
+	<skill id="4422" name="Dark Attacks"/>
+	<skill id="4423" name="Sacred Attacks"/>
+	<skill id="4424" name="Resist Hand-to-hand Weapons"/>
+	<skill id="4425" name="Resist Blunt Weapons"/>
+	<skill id="4426" name="Resist Dual-Sword Weapons"/>
+	<skill id="4427" name="Resist Swords"/>
+	<skill id="4428" name="Resist Two-handed Weapons"/>
+	<skill id="4429" name="Greater Resist Fire Attacks"/>
+	<skill id="4430" name="Greater Resist Water Attacks"/>
+	<skill id="4431" name="Greater Resist Wind Attacks"/>
+	<skill id="4432" name="Greater Resist Earth Attacks"/>
+	<skill id="4433" name="Greater Resist Sacred Attacks"/>
+	<skill id="4434" name="Greater Resist Dark Attacks"/>
+	<skill id="4435" name="Greater Resist Stun"/>
+	<skill id="4436" name="Greater Resist Poison"/>
+	<skill id="4437" name="Greater Resist Bleeding"/>
+	<skill id="4438" name="Greater Resist Sleep"/>
+	<skill id="4439" name="Greater Resist Hold"/>
+	<skill id="4440" name="Greater Resist Paralysis"/>
+	<skill id="4441" name="Greater Resist Mental Derangement"/>
+	<skill id="4442" name="Greater Resist Hand-to-hand Weapons"/>
+	<skill id="4443" name="Greater Resist Blunt Weapons"/>
+	<skill id="4444" name="Higher Resist Bow Weapons"/>
+	<skill id="4445" name="Greater Resist Spear Weapons"/>
+	<skill id="4446" name="Greater Resist Dual-Sword Weapons"/>
+	<skill id="4447" name="Greater Resist Swords"/>
+	<skill id="4448" name="Greater Resist Daggers"/>
+	<skill id="4449" name="Greater Resist Two-handed Weapons"/>
+	<skill id="4450" name="Stun Attack Weak Point"/>
+	<skill id="4451" name="Poison Attack Weak Point"/>
+	<skill id="4452" name="Bleed Attack Weak Point"/>
+	<skill id="4453" name="Sleep Attack Weak Point"/>
+	<skill id="4454" name="Hold Attack Weak Point"/>
+	<skill id="4455" name="Paralysis Attack Weak Point"/>
+	<skill id="4456" name="Mental Attack Weak Point"/>
+	<skill id="4457" name="Hand-to-hand Weapon Weak Point"/>
+	<skill id="4458" name="Spear Weapon Weak Point"/>
+	<skill id="4459" name="Dual-Sword Weapon Weak Point"/>
+	<skill id="4460" name="Sword Weak Point"/>
+	<skill id="4461" name="Dagger Weak Point"/>
+	<skill id="4462" name="Two-handed Weapon Weak Point"/>
+	<skill id="4463" name="Surrender To Water"/>
+	<skill id="4464" name="Surrender To Wind"/>
+	<skill id="4465" name="Surrender To Earth"/>
+	<skill id="4466" name="Surrender To Darkness"/>
+	<skill id="4467" name="Surrender To Light"/>
+	<skill id="4468" name="Area Buff - Wind Walk"/>
+	<skill id="4469" name="Potion Drinking"/>
+	<skill id="4470" name="NPC Spoils"/>
+	<skill id="4471" name="NPC Anger"/>
+	<skill id="4472" name="NPC Strike Golem"/>
+	<skill id="4473" name="Stun"/>
+	<skill id="4474" name="Area Heal - Per"/>
+	<skill id="4475" name="Perfect Resist Bleeding"/>
+	<skill id="4476" name="Silent Move"/>
+	<skill id="4477" name="NPC Frost Wall"/>
+	<skill id="4478" name="Ice Fairy Aqua Splash"/>
+	<skill id="4479" name="Ice Fairy Resist Cold"/>
+	<skill id="4480" name="Ice Fairy Curse Gloom"/>
+	<skill id="4481" name="Ice Fairy Hex"/>
+	<skill id="4482" name="Ice Fairy Silence"/>
+	<skill id="4483" name="Hold"/>
+	<skill id="4484" name="Eating Follower Heal"/>
+	<skill id="4485" name="Eating Follower"/>
+	<skill id="4486" name="Decrease P. Def"/>
+	<skill id="4487" name="Decrease M. Def."/>
+	<skill id="4488" name="Hold"/>
+	<skill id="4489" name="NPC Death MP Bomb"/>
+	<skill id="4490" name="NPC Holy Wall"/>
+	<skill id="4491" name="Holy Weapon"/>
+	<skill id="4492" name="Enlarging Head Curse"/>
+	<skill id="4493" name="NPC Debuff Shield Slow"/>
+	<skill id="4494" name="Raid Boss"/>
+	<skill id="4495" name="BOSS Power Shot"/>
+	<skill id="4496" name="Stun"/>
+	<skill id="4497" name="Treasure Chest - Level 21"/>
+	<skill id="4498" name="Treasure Chest - Level 22"/>
+	<skill id="4499" name="Treasure Chest - Level 25"/>
+	<skill id="4500" name="Treasure Chest - Level 27"/>
+	<skill id="4501" name="Treasure Chest - Level 29"/>
+	<skill id="4502" name="Treasure Chest - Level 31"/>
+	<skill id="4503" name="Treasure Chest - Level 32"/>
+	<skill id="4504" name="Treasure Chest - Level 33"/>
+	<skill id="4505" name="Treasure Chest - Level 35"/>
+	<skill id="4506" name="Treasure Chest - Level 39"/>
+	<skill id="4507" name="Treasure Chest - Level 42"/>
+	<skill id="4508" name="Treasure Chest - Level 43"/>
+	<skill id="4509" name="Treasure Chest - Level 45"/>
+	<skill id="4510" name="Treasure Chest - Level 47"/>
+	<skill id="4511" name="Treasure Chest - Level 49"/>
+	<skill id="4512" name="Treasure Chest - Level 52"/>
+	<skill id="4513" name="Squash - Level up"/>
+	<skill id="4514" name="Squash - Poisoned"/>
+	<skill id="4515" name="Raid Curse"/>
+	<skill id="4516" name="Orfen Heal"/>
+	<skill id="4517" name="Quest - BOSS Defend"/>
+	<skill id="4518" name="Quest - BOSS Rampage"/>
+	<skill id="4519" name="Quest - BOSS Defend"/>
+	<skill id="4520" name="Quest - BOSS Rampage"/>
+	<skill id="4521" name="Quest - BOSS Resist non Bow Weapon"/>
+	<skill id="4522" name="Eye of Assassin"/>
+	<skill id="4523" name="Quest - BOSS Evasion"/>
+	<skill id="4524" name="Quest - BOSS Bluff"/>
+	<skill id="4525" name="Quest - BOSS Defend"/>
+	<skill id="4526" name="Quest - BOSS Summon"/>
+	<skill id="4527" name="Quest - BOSS Inc HP to Summoned"/>
+	<skill id="4528" name="Quest - BOSS Movement to Summoned"/>
+	<skill id="4529" name="Quest - Summoned Explosion"/>
+	<skill id="4530" name="Quest - Summoned HP Heal"/>
+	<skill id="4531" name="Quest - Summoned MP Heal"/>
+	<skill id="4532" name="Quest - BOSS Reflect"/>
+	<skill id="4533" name="Dance of Resistance"/>
+	<skill id="4534" name="Dance of Nihil"/>
+	<skill id="4535" name="Dance of Weakness"/>
+	<skill id="4536" name="Song of Seduce"/>
+	<skill id="4537" name="Song of Sweet Whisper"/>
+	<skill id="4538" name="Song of Temptation"/>
+	<skill id="4539" name="Curse of Vague"/>
+	<skill id="4540" name="Curse of Weakness"/>
+	<skill id="4541" name="Curse of Nihil"/>
+	<skill id="4542" name="Quest - Henchman 90% Sleep Stun Weakness"/>
+	<skill id="4543" name="Quest - BOSS Stun Weakness"/>
+	<skill id="4544" name="Quest - BOSS Weakness"/>
+	<skill id="4545" name="Quest - BOSS Reflect"/>
+	<skill id="4546" name="Quest - Commune to Slate"/>
+	<skill id="4547" name="Gaze of Watcher"/>
+	<skill id="4548" name="Quest - Dispel Watcher Gaze"/>
+	<skill id="4549" name="Quest - Unsealed Altar"/>
+	<skill id="4550" name="Quest - Cursed Altar"/>
+	<skill id="4551" name="Hot Springs Rheumatism"/>
+	<skill id="4552" name="Hot Springs Cholera"/>
+	<skill id="4553" name="Hot Springs Flu"/>
+	<skill id="4554" name="Hot Spring Malaria"/>
+	<skill id="4555" name="NPC Resist Mutant"/>
+	<skill id="4556" name="Dispel Hot Spring Disease A_D"/>
+	<skill id="4557" name="Dispel Hot Spring Disease B_D"/>
+	<skill id="4558" name="Dispel Hot Spring Disease C_D"/>
+	<skill id="4559" name="Hot Spring Illusion"/>
+	<skill id="4560" name="NPC Fire Burn"/>
+	<skill id="4561" name="NPC Fire Burn - Magic"/>
+	<skill id="4562" name="NPC Solar Flare"/>
+	<skill id="4563" name="NPC Solar Flare - Magic"/>
+	<skill id="4564" name="NPC Solar Flare - Slow"/>
+	<skill id="4565" name="NPC Eruption"/>
+	<skill id="4566" name="NPC Eruption - Magic"/>
+	<skill id="4567" name="NPC Eruption - Slow"/>
+	<skill id="4568" name="NPC AE Solar Flare"/>
+	<skill id="4569" name="NPC AE Solar Flare - Magic"/>
+	<skill id="4570" name="NPC AE Solar Flare - Slow"/>
+	<skill id="4571" name="NPC Blazing Circle"/>
+	<skill id="4572" name="NPC Triple Sonic Slash"/>
+	<skill id="4573" name="NPC Sonic Blaster"/>
+	<skill id="4574" name="NPC Sonic Storm"/>
+	<skill id="4575" name="NPC Clan Buff - Haste"/>
+	<skill id="4576" name="NPC Clan Buff - Damage Shield"/>
+	<skill id="4577" name="Decrease Accuracy"/>
+	<skill id="4578" name="Petrification"/>
+	<skill id="4579" name="Bleed"/>
+	<skill id="4580" name="Decrease P. Atk."/>
+	<skill id="4581" name="Hold"/>
+	<skill id="4582" name="Poison"/>
+	<skill id="4583" name="Decrease Speed"/>
+	<skill id="4584" name="Reducing P. Def Stun"/>
+	<skill id="4585" name="NPC Clan Buff - Berserk Might"/>
+	<skill id="4586" name="Decrease Evasion"/>
+	<skill id="4587" name="Decrease P. Atk."/>
+	<skill id="4588" name="NPC Clan Buff - Berserk Haste"/>
+	<skill id="4589" name="Decrease Speed"/>
+	<skill id="4590" name="Decrease Speed"/>
+	<skill id="4591" name="Decrease Speed"/>
+	<skill id="4592" name="Decrease P. Def."/>
+	<skill id="4593" name="Decrease P. Def."/>
+	<skill id="4594" name="Decrease P. Def."/>
+	<skill id="4595" name="NPC Clan Buff - Acumen Shield"/>
+	<skill id="4596" name="Bleed"/>
+	<skill id="4597" name="Bleed"/>
+	<skill id="4598" name="Bleed"/>
+	<skill id="4599" name="Decrease Speed"/>
+	<skill id="4600" name="Reducing P. Def Shock"/>
+	<skill id="4601" name="NPC Clan Buff - Acumen Focus"/>
+	<skill id="4602" name="Decrease P.Atk"/>
+	<skill id="4603" name="Decrease P.Atk"/>
+	<skill id="4604" name="Decrease P.Atk"/>
+	<skill id="4605" name="Surrender To Fire"/>
+	<skill id="4606" name="Poison"/>
+	<skill id="4607" name="Magma Attack"/>
+	<skill id="4608" name="NPC Clan Buff - Berserk"/>
+	<skill id="4609" name="NPC Clan Buff - Vampiric Rage"/>
+	<skill id="4610" name="NPC Clan Buff - Focus"/>
+	<skill id="4611" name="NPC Clan Buff - Death Whisper"/>
+	<skill id="4612" name="NPC Wide Wild Sweep"/>
+	<skill id="4613" name="NPC Clan Heal"/>
+	<skill id="4614" name="NPC Death Bomb"/>
+	<skill id="4615" name="Bleed"/>
+	<skill id="4616" name="Fake Petrification"/>
+	<skill id="4617" name="Dispel Petrification"/>
+	<skill id="4618" name="NPC Cancel PC Target"/>
+	<skill id="4619" name="NPC Dispel Sleep"/>
+	<skill id="4620" name="Paralysis"/>
+	<skill id="4621" name="NPC AE - 80% HP Drain"/>
+	<skill id="4622" name="NPC AE - 80% HP Drain - Magic"/>
+	<skill id="4623" name="NPC AE - 80% HP Drain - Slow"/>
+	<skill id="4624" name="Decrease HP Regeneration Rate"/>
+	<skill id="4625" name="Decrease Speed"/>
+	<skill id="4626" name="NPC Buff - Physical Barrier"/>
+	<skill id="4627" name="NPC Buff - Magical Barrier"/>
+	<skill id="4628" name="Mysterious Aura"/>
+	<skill id="4629" name="NPC MR - HP Drain"/>
+	<skill id="4630" name="NPC MR - Twister"/>
+	<skill id="4631" name="NPC Buff - Acumen Shield WildMagic"/>
+	<skill id="4632" name="NPC Buff - Acumen Empower WildMagic"/>
+	<skill id="4633" name="NPC Buff - Acumen Empower Berserk"/>
+	<skill id="4634" name="NPC Buff - Acumen Empower DamageShield"/>
+	<skill id="4635" name="NPC Buff - Acumen Berserk WildMagic"/>
+	<skill id="4636" name="NPC Buff - Acumen Berserk DamageShield"/>
+	<skill id="4637" name="NPC Buff - Acumen WildMagic DamageShield"/>
+	<skill id="4638" name="NPC Clan Buff - Acumen Empower WildMagic"/>
+	<skill id="4639" name="NPC Clan Buff - Acumen Empower Berserk"/>
+	<skill id="4640" name="Sleep"/>
+	<skill id="4641" name="NPC Super Strike"/>
+	<skill id="4642" name="NPC Fast Spell Casting"/>
+	<skill id="4643" name="Decrease Speed"/>
+	<skill id="4644" name="Area Buff - Haste"/>
+	<skill id="4645" name="Area Buff - Focus"/>
+	<skill id="4646" name="Area Buff - Death Whisper"/>
+	<skill id="4647" name="Area Buff - Might"/>
+	<skill id="4648" name="Area Buff - Shield"/>
+	<skill id="4649" name="Poison"/>
+	<skill id="4650" name="NPC AE - Dispel Hold"/>
+	<skill id="4651" name="NPC AE - Dispel Slow"/>
+	<skill id="4652" name="NPC AE Dispel Silence"/>
+	<skill id="4653" name="NPC Corpse Life Drain"/>
+	<skill id="4654" name="NPC Death Link"/>
+	<skill id="4655" name="NPC Death Link - Magic"/>
+	<skill id="4656" name="NPC Death Link - Slow"/>
+	<skill id="4657" name="Hold"/>
+	<skill id="4658" name="Hold"/>
+	<skill id="4659" name="Hold"/>
+	<skill id="4660" name="Sleep"/>
+	<skill id="4661" name="Sleep"/>
+	<skill id="4662" name="Sleep"/>
+	<skill id="4663" name="NPC Hate"/>
+	<skill id="4664" name="NPC 100% HP Drain"/>
+	<skill id="4665" name="NPC 100% HP Drain - Magic"/>
+	<skill id="4666" name="NPC 100% HP Drain - Slow"/>
+	<skill id="4667" name="NPC Strong 100% HP Drain"/>
+	<skill id="4668" name="NPC Strong 100% HP Drain - Magic"/>
+	<skill id="4669" name="NPC Strong 100% HP Drain - Slow"/>
+	<skill id="4670" name="Short Shock"/>
+	<skill id="4671" name="AV - Teleport"/>
+	<skill id="4672" name="NPC Corpse Remove"/>
+	<skill id="4673" name="NPC Dispel Offensive Buff"/>
+	<skill id="4674" name="NPC Dispel Offensive Buff"/>
+	<skill id="4675" name="NPC Dispel Fighter Buff"/>
+	<skill id="4676" name="NPC Dispel Mage Offensive Buff"/>
+	<skill id="4677" name="NPC Dispel Fighter Defensive Buff"/>
+	<skill id="4678" name="NPC Dispel Mage Defensive Buff"/>
+	<skill id="4679" name="Valakas"/>
+	<skill id="4680" name="Valakas Lava Skin"/>
+	<skill id="4681" name="Valakas Trample"/>
+	<skill id="4682" name="Valakas Trample"/>
+	<skill id="4683" name="Valakas Dragon Breath"/>
+	<skill id="4684" name="Valakas Dragon Breath"/>
+	<skill id="4685" name="Valakas Tail Stomp"/>
+	<skill id="4686" name="Valakas Tail Stomp"/>
+	<skill id="4687" name="Valakas Tail Stomp"/>
+	<skill id="4688" name="Valakas Shock"/>
+	<skill id="4689" name="Valakas Fear"/>
+	<skill id="4690" name="Valakas Meteor Storm"/>
+	<skill id="4691" name="Valakas Regeneration"/>
+	<skill id="4692" name="Quest BOSS Big Body"/>
+	<skill id="4693" name="Quest BOSS Dispel Big Body"/>
+	<skill id="4694" name="Ultimate Debuff"/>
+	<skill id="4695" name="Ultimate Debuff"/>
+	<skill id="4696" name="Ultimate Debuff"/>
+	<skill id="4697" name="NPC Monster Hate"/>
+	<skill id="4698" name="Area Buff - HP Regeneration"/>
+	<skill id="4699" name="Blessing of Queen"/>
+	<skill id="4700" name="Gift of Queen"/>
+	<skill id="4701" name="Cure of Queen"/>
+	<skill id="4702" name="Blessing of Seraphim"/>
+	<skill id="4703" name="Gift of Seraphim"/>
+	<skill id="4704" name="Cure of Seraphim"/>
+	<skill id="4705" name="Curse of Shade"/>
+	<skill id="4706" name="Mass Curse of Shade"/>
+	<skill id="4707" name="Shade Sacrifice"/>
+	<skill id="4708" name="Cursed Strike"/>
+	<skill id="4709" name="Cursed Blow"/>
+	<skill id="4710" name="Wild Stun"/>
+	<skill id="4711" name="Wild Defense"/>
+	<skill id="4712" name="Bright Burst"/>
+	<skill id="4713" name="Bright Heal"/>
+	<skill id="4714" name="Twilight Dragon"/>
+	<skill id="4715" name="Wind Dragon"/>
+	<skill id="4716" name="Star Dragon"/>
+	<skill id="4717" name="Heal Trick"/>
+	<skill id="4718" name="Greater Heal Trick"/>
+	<skill id="4719" name="BOSS Strike"/>
+	<skill id="4720" name="BOSS Strike"/>
+	<skill id="4721" name="BOSS Strike"/>
+	<skill id="4722" name="BOSS Strike"/>
+	<skill id="4723" name="BOSS Strike"/>
+	<skill id="4724" name="Shock"/>
+	<skill id="4725" name="Shock"/>
+	<skill id="4726" name="Shock"/>
+	<skill id="4727" name="Shock"/>
+	<skill id="4728" name="Shock"/>
+	<skill id="4729" name="BOSS Mortal Blow"/>
+	<skill id="4730" name="BOSS Mortal Blow"/>
+	<skill id="4731" name="BOSS Mortal Blow"/>
+	<skill id="4732" name="BOSS Mortal Blow"/>
+	<skill id="4733" name="BOSS Mortal Blow"/>
+	<skill id="4734" name="BOSS Spinning Slash"/>
+	<skill id="4735" name="BOSS Spinning Slasher"/>
+	<skill id="4736" name="BOSS Spinning Slasher"/>
+	<skill id="4737" name="BOSS Spinning Slasher"/>
+	<skill id="4738" name="BOSS Spinning Slasher"/>
+	<skill id="4739" name="BOSS Strike"/>
+	<skill id="4740" name="BOSS Strike"/>
+	<skill id="4741" name="BOSS Strike"/>
+	<skill id="4742" name="BOSS Strike"/>
+	<skill id="4743" name="BOSS Strike"/>
+	<skill id="4744" name="Shock"/>
+	<skill id="4745" name="Shock"/>
+	<skill id="4746" name="Shock"/>
+	<skill id="4747" name="Shock"/>
+	<skill id="4748" name="Shock"/>
+	<skill id="4749" name="BOSS Mortal Blow"/>
+	<skill id="4750" name="BOSS Mortal Blow"/>
+	<skill id="4751" name="BOSS Mortal Blow"/>
+	<skill id="4752" name="BOSS Mortal Blow"/>
+	<skill id="4753" name="BOSS Mortal Blow"/>
+	<skill id="4754" name="BOSS Power Shot"/>
+	<skill id="4755" name="BOSS Power Shot"/>
+	<skill id="4756" name="BOSS Power Shot"/>
+	<skill id="4757" name="BOSS Power Shot"/>
+	<skill id="4758" name="BOSS Power Shot"/>
+	<skill id="4759" name="Shock"/>
+	<skill id="4760" name="Shock"/>
+	<skill id="4761" name="Shock"/>
+	<skill id="4762" name="Shock"/>
+	<skill id="4763" name="Shock"/>
+	<skill id="4764" name="BOSS Power Shot"/>
+	<skill id="4765" name="BOSS Power Shot"/>
+	<skill id="4766" name="BOSS Power Shot"/>
+	<skill id="4767" name="BOSS Power Shot"/>
+	<skill id="4768" name="BOSS Power Shot"/>
+	<skill id="4769" name="Shock"/>
+	<skill id="4770" name="Shock"/>
+	<skill id="4771" name="Shock"/>
+	<skill id="4772" name="Shock"/>
+	<skill id="4773" name="Shock"/>
+	<skill id="4774" name="BOSS Spear Attack"/>
+	<skill id="4775" name="BOSS Spear Attack"/>
+	<skill id="4776" name="BOSS Spear Attack"/>
+	<skill id="4777" name="BOSS Spear Attack"/>
+	<skill id="4778" name="BOSS Spear Attack"/>
+	<skill id="4779" name="BOSS Heal"/>
+	<skill id="4780" name="BOSS Heal"/>
+	<skill id="4781" name="BOSS Heal"/>
+	<skill id="4782" name="BOSS Heal"/>
+	<skill id="4783" name="BOSS Heal"/>
+	<skill id="4784" name="BOSS Chant of Life"/>
+	<skill id="4785" name="BOSS Chant of Life"/>
+	<skill id="4786" name="BOSS Chant of Life"/>
+	<skill id="4787" name="BOSS Chant of Life"/>
+	<skill id="4788" name="BOSS Chant of Life"/>
+	<skill id="4789" name="NPC High Level"/>
+	<skill id="4790" name="Raid Boss - Level 23"/>
+	<skill id="4791" name="Raid Boss - Level 30"/>
+	<skill id="4792" name="Raid Boss - Level 42"/>
+	<skill id="4793" name="Raid Boss - Level 55"/>
+	<skill id="4794" name="Raid Boss - Level 50"/>
+	<skill id="4795" name="Raid Boss - Level 60"/>
+	<skill id="4796" name="Raid Boss - Level 25"/>
+	<skill id="4797" name="Raid Boss - Level 34"/>
+	<skill id="4798" name="Raid Boss - Level 34"/>
+	<skill id="4799" name="Raid Boss - Level 49"/>
+	<skill id="4800" name="Raid Boss - Level 53"/>
+	<skill id="4801" name="Raid Boss - Level 58"/>
+	<skill id="4802" name="Raid Boss - Level 70"/>
+	<skill id="4803" name="Raid Boss - Level 28"/>
+	<skill id="4804" name="Raid Boss - Level 35"/>
+	<skill id="4805" name="Raid Boss - Level 47"/>
+	<skill id="4806" name="Raid Boss - Level 49"/>
+	<skill id="4807" name="Raid Boss - Level 51"/>
+	<skill id="4808" name="Raid Boss - Level 65"/>
+	<skill id="4809" name="Raid Boss - Level 75"/>
+	<skill id="4810" name="Raid Boss - Level 45"/>
+	<skill id="4811" name="Raid Boss - Level 24"/>
+	<skill id="4812" name="Raid Boss - Level 35"/>
+	<skill id="4813" name="Raid Boss - Level 40"/>
+	<skill id="4814" name="Raid Boss - Level 52"/>
+	<skill id="4815" name="Raid Boss - Level 55"/>
+	<skill id="4816" name="Raid Boss - Level 69"/>
+	<skill id="4817" name="Raid Boss - Level 25"/>
+	<skill id="4818" name="Raid Boss - Level 30"/>
+	<skill id="4819" name="Raid Boss - Level 39"/>
+	<skill id="4820" name="Raid Boss - Level 44"/>
+	<skill id="4821" name="Raid Boss - Level 43"/>
+	<skill id="4822" name="Raid Boss - Level 59"/>
+	<skill id="4823" name="Raid Boss - Level 70"/>
+	<skill id="4824" name="Raid Boss - Level 29"/>
+	<skill id="4825" name="Raid Boss - Level 35"/>
+	<skill id="4826" name="Raid Boss - Level 44"/>
+	<skill id="4827" name="Raid Boss - Level 45"/>
+	<skill id="4828" name="Raid Boss - Level 55"/>
+	<skill id="4829" name="Raid Boss - Level 60"/>
+	<skill id="4830" name="Raid Boss - Level 74"/>
+	<skill id="4831" name="Raid Boss - Level 30"/>
+	<skill id="4832" name="Raid Boss - Level 40"/>
+	<skill id="4833" name="Raid Boss - Level 35"/>
+	<skill id="4834" name="Raid Boss - Level 50"/>
+	<skill id="4835" name="Raid Boss - Level 56"/>
+	<skill id="4836" name="Raid Boss - Level 65"/>
+	<skill id="4837" name="Raid Boss - Level 79"/>
+	<skill id="4838" name="Raid Boss - Level 24"/>
+	<skill id="4839" name="Raid Boss - Level 33"/>
+	<skill id="4840" name="Raid Boss - Level 50"/>
+	<skill id="4841" name="Raid Boss - Level 40"/>
+	<skill id="4842" name="Raid Boss - Level 55"/>
+	<skill id="4843" name="Raid Boss - Level 65"/>
+	<skill id="4844" name="Raid Boss - Level 78"/>
+	<skill id="4845" name="Raid Boss - Level 21"/>
+	<skill id="4846" name="Raid Boss - Level 25"/>
+	<skill id="4847" name="Raid Boss - Level 35"/>
+	<skill id="4848" name="Raid Boss - Level 40"/>
+	<skill id="4849" name="Raid Boss - Level 48"/>
+	<skill id="4850" name="Raid Boss - Level 54"/>
+	<skill id="4851" name="Raid Boss - Level 60"/>
+	<skill id="4852" name="Raid Boss - Level 70"/>
+	<skill id="4853" name="Raid Boss - Level 25"/>
+	<skill id="4854" name="Raid Boss - Level 30"/>
+	<skill id="4855" name="Raid Boss - Level 38"/>
+	<skill id="4856" name="Raid Boss - Level 45"/>
+	<skill id="4857" name="Raid Boss - Level 55"/>
+	<skill id="4858" name="Raid Boss - Level 60"/>
+	<skill id="4859" name="Raid Boss - Level 59"/>
+	<skill id="4860" name="Raid Boss - Level 35"/>
+	<skill id="4861" name="Raid Boss - Level 30"/>
+	<skill id="4862" name="Raid Boss - Level 34"/>
+	<skill id="4863" name="Raid Boss - Level 43"/>
+	<skill id="4864" name="Raid Boss - Level 40"/>
+	<skill id="4865" name="Raid Boss - Level 36"/>
+	<skill id="4866" name="Raid Boss - Level 40"/>
+	<skill id="4867" name="Raid Boss - Level 50"/>
+	<skill id="4868" name="Raid Boss - Level 73"/>
+	<skill id="4869" name="Raid Boss - Level 35"/>
+	<skill id="4870" name="Raid Boss - Level 62"/>
+	<skill id="4871" name="Raid Boss - Level 75"/>
+	<skill id="4872" name="Raid Boss - Level 57"/>
+	<skill id="4873" name="Raid Boss - Level 69"/>
+	<skill id="4874" name="Raid Boss - Level 60"/>
+	<skill id="4875" name="Raid Boss - Level 72"/>
+	<skill id="4876" name="Raid Boss - Level 59"/>
+	<skill id="4877" name="Raid Boss - Level 55"/>
+	<skill id="4878" name="Raid Boss - Level 75"/>
+	<skill id="4879" name="Raid Boss - Level 78"/>
+	<skill id="4880" name="Raid Boss - Level 72"/>
+	<skill id="4881" name="Raid Boss - Level 75"/>
+	<skill id="4882" name="Raid Boss - Level 70"/>
+	<skill id="4883" name="Raid Boss - Level 65"/>
+	<skill id="4884" name="Raid Boss - Level 60"/>
+	<skill id="4885" name="Raid Boss - Level 55"/>
+	<skill id="4886" name="Raid Boss - Level 45"/>
+	<skill id="4887" name="Raid Boss - Level 67"/>
+	<skill id="4888" name="Raid Boss - Level 75"/>
+	<skill id="4889" name="Raid Boss - Level 70"/>
+	<skill id="4890" name="Raid Boss - Level 28"/>
+	<skill id="4891" name="Raid Boss - Level 50"/>
+	<skill id="4892" name="Raid Boss - Level 75"/>
+	<skill id="4893" name="Raid Boss - Level 50"/>
+	<skill id="4894" name="Raid Boss - Level 55"/>
+	<skill id="4895" name="Raid Boss - Level 70"/>
+	<skill id="4896" name="Raid Boss - Level 75"/>
+	<skill id="4897" name="Raid Boss - Level 80"/>
+	<skill id="4898" name="Raid Boss - Level 80"/>
+	<skill id="4899" name="Raid Boss - Level 20"/>
+	<skill id="4900" name="Raid Boss - Level 78"/>
+	<skill id="4901" name="Raid Boss - Level 78"/>
+	<skill id="4902" name="Raid Boss - Level 74"/>
+	<skill id="4903" name="Raid Boss - Level 80"/>
+	<skill id="4904" name="Raid Boss - Level 84"/>
+	<skill id="4905" name="Raid Boss - Level 87"/>
+	<skill id="4906" name="Raid Boss - Level 87"/>
+	<skill id="4907" name="Raid Boss - Level 80"/>
+	<skill id="4908" name="Raid Boss - Level 84"/>
+	<skill id="4909" name="Raid Boss - Level 87"/>
+	<skill id="4910" name="Raid Boss - Level 87"/>
+	<skill id="4911" name="Raid Boss - Level 85"/>
+	<skill id="4912" name="Raid Boss - Level 66"/>
+	<skill id="4913" name="Raid Boss - Level 70"/>
+	<skill id="4914" name="Raid Boss - Level 71"/>
+	<skill id="4915" name="Raid Boss - Level 28"/>
+	<skill id="4916" name="Raid Boss - Level 38"/>
+	<skill id="4917" name="Raid Boss - Level 48"/>
+	<skill id="4918" name="Raid Boss - Level 58"/>
+	<skill id="4919" name="Raid Boss - Level 68"/>
+	<skill id="4920" name="Raid Boss - Level 78"/>
+	<skill id="4921" name="Raid Boss - Level 81"/>
+	<skill id="4922" name="Raid Boss - Level 81"/>
+	<skill id="4923" name="Raid Boss - Level 81"/>
+	<skill id="4924" name="Raid Boss - Level 81"/>
+	<skill id="4925" name="Raid Boss - Level 30"/>
+	<skill id="4926" name="Raid Boss - Level 35"/>
+	<skill id="4927" name="Raid Boss - Level 21"/>
+	<skill id="4928" name="Raid Boss - Level 26"/>
+	<skill id="4929" name="Raid Boss - Level 23"/>
+	<skill id="4930" name="Raid Boss - Level 26"/>
+	<skill id="4931" name="Raid Boss - Level 23"/>
+	<skill id="4932" name="Raid Boss - Level 25"/>
+	<skill id="4933" name="Raid Boss - Level 20"/>
+	<skill id="4934" name="Raid Boss - Level 21"/>
+	<skill id="4935" name="Raid Boss - Level 20"/>
+	<skill id="4936" name="Raid Boss - Level 21"/>
+	<skill id="4937" name="Raid Boss - Level 34"/>
+	<skill id="4938" name="Raid Boss - Level 36"/>
+	<skill id="4939" name="Raid Boss - Level 35"/>
+	<skill id="4940" name="Raid Boss - Level 33"/>
+	<skill id="4941" name="Raid Boss - Level 32"/>
+	<skill id="4942" name="Raid Boss - Level 38"/>
+	<skill id="4943" name="Raid Boss - Level 45"/>
+	<skill id="4944" name="Raid Boss - Level 35"/>
+	<skill id="4945" name="Raid Boss - Level 32"/>
+	<skill id="4946" name="Raid Boss - Level 33"/>
+	<skill id="4947" name="Raid Boss - Level 60"/>
+	<skill id="4948" name="Raid Boss - Level 40"/>
+	<skill id="4949" name="Raid Boss - Level 47"/>
+	<skill id="4950" name="Raid Boss - Level 40"/>
+	<skill id="4951" name="Raid Boss - Level 44"/>
+	<skill id="4952" name="Raid Boss - Level 48"/>
+	<skill id="4953" name="Raid Boss - Level 61"/>
+	<skill id="4954" name="Raid Boss - Level 25"/>
+	<skill id="4955" name="Raid Boss - Level 55"/>
+	<skill id="4956" name="Raid Boss - Level 45"/>
+	<skill id="4957" name="Raid Boss - Level 44"/>
+	<skill id="4958" name="Raid Boss - Level 45"/>
+	<skill id="4959" name="Raid Boss - Level 65"/>
+	<skill id="4960" name="Raid Boss - Level 71"/>
+	<skill id="4961" name="Raid Boss - Level 79"/>
+	<skill id="4962" name="Raid Boss - Level 70"/>
+	<skill id="4963" name="Raid Boss - Level 49"/>
+	<skill id="4964" name="Raid Boss - Level 51"/>
+	<skill id="4965" name="Raid Boss - Level 56"/>
+	<skill id="4966" name="Raid Boss - Level 64"/>
+	<skill id="4967" name="Raid Boss - Level 66"/>
+	<skill id="4968" name="Raid Boss - Level 52"/>
+	<skill id="4969" name="Raid Boss - Level 55"/>
+	<skill id="4970" name="Raid Boss - Level 65"/>
+	<skill id="4971" name="Raid Boss - Level 53"/>
+	<skill id="4972" name="Raid Boss - Level 50"/>
+	<skill id="4973" name="Raid Boss - Level 40"/>
+	<skill id="4974" name="Raid Boss - Level 40"/>
+	<skill id="4975" name="Raid Boss - Level 55"/>
+	<skill id="4976" name="Raid Boss - Level 52"/>
+	<skill id="4977" name="Raid Boss - Level 45"/>
+	<skill id="4978" name="Raid Boss - Level 81"/>
+	<skill id="4979" name="Raid Boss - Level 82"/>
+	<skill id="4980" name="Raid Boss - Level 83"/>
+	<skill id="4981" name="Raid Boss - Level 84"/>
+	<skill id="4982" name="Raid Boss - Level 85"/>
+	<skill id="4983" name="Raid Boss - Level 25"/>
+	<skill id="4984" name="Raid Boss - Level 44"/>
+	<skill id="4985" name="Raid Boss - Level 70"/>
+	<skill id="4986" name="Raid Boss - Level 72"/>
+	<skill id="4987" name="Raid Boss - Level 74"/>
+	<skill id="4988" name="Raid Boss - Level 76"/>
+	<skill id="4989" name="Npc - Hot Spring Nectar"/>
+	<skill id="4990" name="Npc - Hot Spring Mineral"/>
+	<skill id="4991" name="Hot Spring Sulfur"/>
+	<skill id="4992" name="Shock"/>
+	<skill id="4993" name="Venom - Strike"/>
+	<skill id="4994" name="Venom - Sonic Storm"/>
+	<skill id="4995" name="Venom - Teleport"/>
+	<skill id="4996" name="Venom - Range Teleport"/>
+	<skill id="4997" name="Lidia - Regen"/>
+	<skill id="4998" name="Lidia - Twister"/>
+	<skill id="4999" name="Lidia - Range Life Drain"/>
+	<skill id="5000" name="Alfred - Super Strike"/>
+	<skill id="5001" name="Alfred - Life Drain"/>
+	<skill id="5002" name="Giselle - Vampiric Rage"/>
+	<skill id="5003" name="Giselle - Tempest"/>
+	<skill id="5004" name="Dimensional Shock"/>
+	<skill id="5005" name="Frintezza's Ghost Summoning"/>
+	<skill id="5006" name="Frintezza's Melody"/>
+	<skill id="5007" name="Frintezza's Songs"/>
+	<skill id="5008" name="Frintezza's Songs"/>
+	<skill id="5009" name="Frintezza's Ghostly Fighter"/>
+	<skill id="5010" name="Frintezza's Ghostly Mage"/>
+	<skill id="5011" name="Frintezza's Bomber Ghost"/>
+	<skill id="5012" name="Breath of Scarlet"/>
+	<skill id="5013" name="Frintezza Ghost Drain"/>
+	<skill id="5014" name="Frintezza's Daemon Attack"/>
+	<skill id="5015" name="Frintezza's Daemon Charge"/>
+	<skill id="5016" name="Yoke of Scarlet"/>
+	<skill id="5017" name="Frintezza's Daemon Morph"/>
+	<skill id="5018" name="Frintezza's Daemon Field"/>
+	<skill id="5019" name="Frintezza's Daemon Drain"/>
+	<skill id="5020" name="Forced Action"/>
+	<skill id="5021" name="Inspiration of Einhasad"/>
+	<skill id="5022" name="Decrease Speed"/>
+	<skill id="5023" name="Hold"/>
+	<skill id="5024" name="Decrease Atk.Speed"/>
+	<skill id="5025" name="Raid Boss - Level 30"/>
+	<skill id="5026" name="Raid Boss - Level 39"/>
+	<skill id="5027" name="Raid Boss - Level 37"/>
+	<skill id="5028" name="Raid Boss - Level 53"/>
+	<skill id="5029" name="Raid Boss - Level 52"/>
+	<skill id="5030" name="Raid Boss - Level 59"/>
+	<skill id="5031" name="Raid Boss - Level 80"/>
+	<skill id="5032" name="Raid Boss - Level 87"/>
+	<skill id="5033" name="Raid Boss - Level 87"/>
+	<skill id="5034" name="Raid Boss - Level 73"/>
+	<skill id="5035" name="Raid Boss - Level 76"/>
+	<skill id="5036" name="Raid Boss - Level 60"/>
+	<skill id="5037" name="Decrease Casting Speed"/>
+	<skill id="5038" name="Summon PVP Penalty"/>
+	<skill id="5039" name="NPC - Ultra Bomb"/>
+	<skill id="5040" name="NPC - Healing Potion"/>
+	<skill id="5041" name="Charm of Courage"/>
+	<skill id="5042" name="NPC Dispel Bomb"/>
+	<skill id="5043" name="NPC Super Sonic Blaster"/>
+	<skill id="5044" name="NPC Ultimate Defense"/>
+	<skill id="5045" name="Castle Power Strike"/>
+	<skill id="5046" name="Castle Power Shot"/>
+	<skill id="5047" name="Castle Spinning Slash"/>
+	<skill id="5048" name="Castle Burst Shot"/>
+	<skill id="5049" name="Castle Blow"/>
+	<skill id="5050" name="Castle DD Fire"/>
+	<skill id="5051" name="Castle Self AE Fire"/>
+	<skill id="5052" name="Castle Long AE Fire"/>
+	<skill id="5053" name="Castle DD Water"/>
+	<skill id="5054" name="Castle Self AE Water"/>
+	<skill id="5055" name="Castle Long AE Water"/>
+	<skill id="5056" name="Castle DD Wind"/>
+	<skill id="5057" name="Castle Self AE Wind"/>
+	<skill id="5058" name="Castle Long AE Wind"/>
+	<skill id="5059" name="Castle DD Earth"/>
+	<skill id="5060" name="Castle Self AE Earth"/>
+	<skill id="5061" name="Castle Long AE Earth"/>
+	<skill id="5062" name="Castle DD Holy"/>
+	<skill id="5063" name="Castle Self AE Holy"/>
+	<skill id="5064" name="Castle Long AE Holy"/>
+	<skill id="5065" name="Castle DD Unholy"/>
+	<skill id="5066" name="Castle Self AE Unholy"/>
+	<skill id="5067" name="Castle Long AE Unholy"/>
+	<skill id="5068" name="Decrease Speed"/>
+	<skill id="5069" name="Decrease Atk.Spd."/>
+	<skill id="5070" name="Decrease Casting Spd"/>
+	<skill id="5071" name="Decrease P.Atk"/>
+	<skill id="5072" name="Decrease M. Atk."/>
+	<skill id="5073" name="Quest Trap - Power Shot"/>
+	<skill id="5074" name="The Victor of War"/>
+	<skill id="5075" name="The Vanquished of War"/>
+	<skill id="5076" name="Death Penalty"/>
+	<skill id="5077" name="NPC Remove Death Penalty"/>
+	<skill id="5078" name="Frintezza Critical Power"/>
+	<skill id="5079" name="NPC Focused Haste"/>
+	<skill id="5080" name="NPC Mighty Haste"/>
+	<skill id="5081" name="Silence"/>
+	<skill id="5082" name="NPC Spinning, Slashing Trick"/>
+	<skill id="5083" name="Shock"/>
+	<skill id="5084" name="NPC Blinding Blow"/>
+	<skill id="5085" name="Anesthesia"/>
+	<skill id="5086" name="Deadly Poison"/>
+	<skill id="5087" name="Berserk"/>
+	<skill id="5088" name="Signal"/>
+	<skill id="5089" name="Representation - Enter the Sailren Nest Quest"/>
+	<skill id="5090" name="Sailren Production"/>
+	<skill id="5091" name="Sailren Production 2"/>
+	<skill id="5092" name="Antharas Terror"/>
+	<skill id="5093" name="Antharas Meteor"/>
+	<skill id="5094" name="Antharas Subordinate Suicide "/>
+	<skill id="5095" name="Antharas Subordinate Melee Attack"/>
+	<skill id="5096" name="Antharas Subordinate Remote Attack"/>
+	<skill id="5097" name="Antharas Subordinate Suicide (Narrow Range)"/>
+	<skill id="5098" name="Capture Penalty"/>
+	<skill id="5099" name="Cancel Capture A"/>
+	<skill id="5100" name="Cancel Capture B"/>
+	<skill id="5101" name="Cancel Capture C"/>
+	<skill id="5102" name="Cancel All Capture"/>
+	<skill id="5103" name="Production - Clan / Transfer"/>
+	<skill id="5104" name="Battle Force"/>
+	<skill id="5105" name="Spell Force"/>
+	<skill id="5106" name="Capture A State"/>
+	<skill id="5107" name="Capture B State"/>
+	<skill id="5108" name="Capture C State"/>
+	<skill id="5109" name="Production - Clan Gate"/>
+	<skill id="5110" name="Cannon Fodder"/>
+	<skill id="5111" name="Big Bang"/>
+	<skill id="5112" name="Shock"/>
+	<skill id="5113" name="Castle Self AE Dispell Buff"/>
+	<skill id="5114" name="Hold"/>
+	<skill id="5115" name="Cubic Hate"/>
+	<skill id="5116" name="Hold"/>
+	<skill id="5117" name="Stun"/>
+	<skill id="5118" name="Cancel Sailren Use"/>
+	<skill id="5119" name="Bleed"/>
+	<skill id="5120" name="Stun"/>
+	<skill id="5121" name="Production - Corpse Revival"/>
+	<skill id="5122" name="Sailren Use Might"/>
+	<skill id="5123" name="Maximum Defense"/>
+	<skill id="5124" name="Anti-Music"/>
+	<skill id="5125" name="Maximum Resist Status"/>
+	<skill id="5126" name="Maximum Recovery"/>
+	<skill id="5127" name="Recover Force"/>
+	<skill id="5128" name="Maximum Archery"/>
+	<skill id="5129" name="Smokescreen"/>
+	<skill id="5130" name="Volcano"/>
+	<skill id="5131" name="Tsunami"/>
+	<skill id="5132" name="Cyclone"/>
+	<skill id="5133" name="Gehenna"/>
+	<skill id="5134" name="Anti-Summoning Field"/>
+	<skill id="5135" name="Slash"/>
+	<skill id="5136" name="Spin Slash"/>
+	<skill id="5137" name="Hold of King"/>
+	<skill id="5138" name="Whiplash"/>
+	<skill id="5139" name="Tidal Wave"/>
+	<skill id="5140" name="Dark Curse"/>
+	<skill id="5141" name="Dicing Death"/>
+	<skill id="5142" name="Corpse Kaboom"/>
+	<skill id="5143" name="Sailren Use Blow"/>
+	<skill id="5144" name="Mirage"/>
+	<skill id="5145" name="Day of Doom"/>
+	<skill id="5146" name="Heal"/>
+	<skill id="5147" name="Blessed Body"/>
+	<skill id="5148" name="Prayer"/>
+	<skill id="5149" name="Recharge"/>
+	<skill id="5150" name="Blessed Soul"/>
+	<skill id="5151" name="Mana Gain"/>
+	<skill id="5152" name="Ritual"/>
+	<skill id="5153" name="Cheer"/>
+	<skill id="5154" name="Might"/>
+	<skill id="5156" name="Empower"/>
+	<skill id="5157" name="Duel Might"/>
+	<skill id="5158" name="Shield"/>
+	<skill id="5159" name="Magic Barrier"/>
+	<skill id="5160" name="Duel Weakness"/>
+	<skill id="5161" name="Agility"/>
+	<skill id="5162" name="Guidance"/>
+	<skill id="5163" name="Focus"/>
+	<skill id="5164" name="Wild Magic"/>
+	<skill id="5165" name="Charm"/>
+	<skill id="5166" name="Slow"/>
+	<skill id="5167" name="Winter"/>
+	<skill id="5168" name="Stun"/>
+	<skill id="5169" name="Hold"/>
+	<skill id="5170" name="Sleep"/>
+	<skill id="5171" name="Paralyze"/>
+	<skill id="5172" name="Medusa"/>
+	<skill id="5173" name="Fear"/>
+	<skill id="5174" name="Poison"/>
+	<skill id="5175" name="Bleed"/>
+	<skill id="5176" name="Silence"/>
+	<skill id="5177" name="Doom"/>
+	<skill id="5178" name="NPC Burn"/>
+	<skill id="5179" name="Raid Boss - Level 86"/>
+	<skill id="5180" name="Raid Boss - Level 87"/>
+	<skill id="5181" name="Raid Boss - Level 87"/>
+	<skill id="5182" name="Blessing of Protection"/>
+	<skill id="5183" name="Production: Dimensional Stun"/>
+	<skill id="5184" name="Production: Valakas Dragon Breath"/>
+	<skill id="5185" name="Production: Magic-type Guard"/>
+	<skill id="5186" name="Pet Haste"/>
+	<skill id="5187" name="Pet Vampiric Rage"/>
+	<skill id="5188" name="Pet Regeneration"/>
+	<skill id="5189" name="Pet Blessed Body"/>
+	<skill id="5190" name="Pet Blessed Soul"/>
+	<skill id="5191" name="Pet Guidance"/>
+	<skill id="5192" name="Pet Wind Walk"/>
+	<skill id="5193" name="Pet Acumen"/>
+	<skill id="5194" name="Pet Empower"/>
+	<skill id="5195" name="Pet Greater Heal"/>
+	<skill id="5196" name="Pet Wind Shackle"/>
+	<skill id="5197" name="Pet Hex"/>
+	<skill id="5198" name="Pet Slow"/>
+	<skill id="5199" name="Pet Curse Gloom"/>
+	<skill id="5200" name="Pet Recharge"/>
+	<skill id="5201" name="Pet Concentration"/>
+	<skill id="5202" name="NPC Ranged Stun"/>
+	<skill id="5203" name="NPC Ranged Fear"/>
+	<skill id="5204" name="Production-First Gigantic Pig Combination"/>
+	<skill id="5205" name="Boss Regeneration"/>
+	<skill id="5206" name="Decrease Speed"/>
+	<skill id="5207" name="Decrease Atk. Spd."/>
+	<skill id="5208" name="Golden Pig Wind Walk"/>
+	<skill id="5209" name="Golden Pig Shield"/>
+	<skill id="5210" name="Golden Pig Blessed Body"/>
+	<skill id="5211" name="Golden Pig Vampiric Rage"/>
+	<skill id="5212" name="Golden Pig Regeneration"/>
+	<skill id="5213" name="Golden Pig Haste"/>
+	<skill id="5214" name="Golden Pig Blessed Soul"/>
+	<skill id="5215" name="Golden Pig Acumen"/>
+	<skill id="5216" name="Golden Pig Concentration"/>
+	<skill id="5217" name="Golden Pig Empower"/>
+	<skill id="5218" name="Production: Event Teleport"/>
+	<skill id="5219" name="Huge Pig Stun"/>
+	<skill id="5220" name="Huge Pig Fear"/>
+	<skill id="7000" name="NPC Default"/>
+	<skill id="7001" name="Dispel Buff"/>
+	<skill id="7002" name="Dispel Debuff"/>
+	<skill id="7003" name="Dispel All"/>
+	<skill id="7004" name="Dispel Petrification"/>
+	<skill id="7005" name="Greater Chant of Vampire"/>
+	<skill id="7006" name="The Love of Pa'agrio"/>
+	<skill id="7007" name="Greater Seal of Flame"/>
+	<skill id="7028" name="For Stationary NPCs"/>
+	<skill id="7029" name="Super Haste"/>
+	<skill id="7030" name="Summon King Bugbear"/>
+	<skill id="7031" name="Summon Skeleton Royal Guard"/>
+	<skill id="7032" name="Summon Hunter Gargoyle"/>
+	<skill id="7033" name="Test Flame Strike"/>
+	<skill id="7034" name="Test Aqua Splash"/>
+	<skill id="7035" name="Display - Swoop Cannon"/>
+	<skill id="7036" name="Display - Valakas"/>
+	<skill id="7037" name="Display - Tyrannosaurus Capture"/>
+	<skill id="7038" name="Channeling DD Test: Short"/>
+	<skill id="7039" name="Channeling DD Test: Middle"/>
+	<skill id="7040" name="Channeling DD Test: Long"/>
+</list>
